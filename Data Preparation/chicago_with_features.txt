@@ -1,0 +1,677 @@
+0000000	Short Drive Carry in Wine and Beer No Reservations Buffet Dining Indian Excellent Food Good Service Fair Decor below $15 
+0000001	Cab Weekend Brunch Parking/Valet After Hours Dining Late Night Menu Weekend Brunch Relaxed Senior Scene Private Parties Private Rooms Available Italian Excellent Food Excellent Service Extraordinary Decor $15-$30 
+0000002	Long Drive Weekend Brunch Pub Feel Singles Scene See the Game Parking/Valet Weekend Brunch Private Parties Private Rooms Available American (Traditional) Excellent Food Excellent Service Extraordinary Decor $15-$30 
+0000003	Long Drive Pre-theater Dining Parking/Valet Weekend Brunch Seafood Excellent Food Excellent Service Excellent Decor $15-$30 
+0000004	Short Drive Weekend Brunch Weekend Brunch Quirky Health Conscious Menus Creative Creative Health Food Excellent Food Excellent Service Excellent Decor $15-$30 
+0000005	Cab Weekend Brunch After Hours Dining Late Night Menu Good for Younger Kids For the Young and Young at Heart No Reservations Pizza Extraordinary Food Good Service Good Decor below $15 
+0000006	Short Drive Little Known But Well Liked Italian Good Food Good Service Good Decor $15-$30 
+0000007	Short Drive After Hours Dining Late Night Menu Weekend Brunch Relaxed Senior Scene Roumanian Good Food Excellent Service Good Decor $15-$30 
+0000008	Cab Thai Good Food Excellent Service Fair Decor below $15 
+0000009	Cab Private Parties Private Rooms Available Business Scene Buffet Dining Chinese Excellent Food Excellent Service Good Decor $15-$30 
+0000010	Long Drive Parking/Valet Good Out of Town Business Weekend Brunch Very Busy - Reservations a Must Power Brokers Private Parties Private Rooms Available Hip Place To Be Business Scene Steakhouses Extraordinary Food Extraordinary Service Excellent Decor $30-$50 
+0000011	Short Drive Parking/Valet Weekend Brunch Romantic Quiet for Conversation Italian Mediterranean Excellent Food Excellent Service Excellent Decor $15-$30 
+0000012	Long Drive Weekend Brunch Parking/Valet Weekend Brunch Italian Excellent Food Good Service Fair Decor $15-$30 
+0000013	Long Drive Parking/Valet Weekend Brunch Dining Outdoors Walk American (Traditional) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000014	Cab Weekend Brunch Private Parties Private Rooms Available Italian Pizza Excellent Food Excellent Service Excellent Decor $15-$30 
+0000015	Short Drive Thai Excellent Food Excellent Service Good Decor below $15 
+0000016	Short Drive Weekend Brunch Pub Feel Singles Scene See the Game Weekend Brunch Place for Singles Dining Outdoors Buffet Dining American (Traditional) American (New) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000017	Long Drive Parking/Valet Good for Younger Kids Weekend Brunch Relaxed Senior Scene Private Parties Private Rooms Available American (Traditional) Steakhouses Excellent Food Excellent Service Good Decor $15-$30 
+0000018	Cab Weekend Brunch Relaxed Senior Scene Italian Excellent Food Good Service Good Decor $15-$30 
+0000019	Short Drive Weekend Brunch Parking/Valet No Liquor Served Weekend Brunch Little Known But Well Liked Open for Breakfast Southern Soulfood Extraordinary Food Excellent Service Fair Decor below $15 
+0000020	Cab After Hours Dining Late Night Menu Romantic Quiet for Conversation American (Traditional) Italian Good Food Good Service Good Decor $15-$30 
+0000021	Cab Weekend Brunch Parking/Valet Private Parties Private Rooms Available Dining Outdoors Classic Hotel Dining Business Scene Continental English Excellent Food Excellent Service Extraordinary Decor $30-$50 
+0000022	Short Drive Thai Excellent Food Excellent Service Good Decor below $15 
+0000023	Cab Weekend Brunch Parking/Valet After Hours Dining Late Night Menu Little Known But Well Liked Classic Hotel Dining Business Scene American (New) Extraordinary Food Near-perfect Service Extraordinary Decor $15-$30 
+0000024	Long Drive Weekend Brunch Parking/Valet Good for Younger Kids American (Traditional) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000025	Short Drive Weekend Brunch People Keep Coming Back Weekend Brunch Dining Outdoors Margaritas Mexican Good Food Good Service Good Decor $15-$30 
+0000026	Cab Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Romantic Dancing Entertainment Business Scene Buffet Dining American (New) Excellent Food Excellent Service Extraordinary Decor $30-$50 
+0000027	Cab Pre-theater Dining Parking/Valet Game Good Out of Town Business Romantic Very Busy - Reservations a Must Prix Fixe Menus Need To Dress Classic Hotel Dining Health Conscious Menus Business Scene French (New) Near-perfect Food Near-perfect Service Near-perfect Decor over $50 
+0000028	Cab Weekend Brunch Good for Younger Kids People Keep Coming Back For the Young and Young at Heart Weekend Brunch Hamburgers Good Food Good Service Good Decor below $15 
+0000029	Short Drive Parking/Valet Weekend Brunch Private Parties Private Rooms Available Greek Good Food Good Service Excellent Decor $15-$30 
+0000030	Cab Weekend Brunch After Hours Dining Late Night Menu Weekend Brunch Seafood Excellent Food Excellent Service Excellent Decor $15-$30 
+0000031	Long Drive Little Known But Well Liked Romantic Quiet for Conversation Private Parties Private Rooms Available American (Traditional) Seafood Extraordinary Food Excellent Service Excellent Decor $30-$50 
+0000032	Short Drive Relaxed Senior Scene Thai Extraordinary Food Excellent Service Good Decor $15-$30 
+0000033	Long Drive Creative Chinese Excellent Food Excellent Service Excellent Decor $15-$30 
+0000034	Cab Weekend Brunch After Hours Dining Late Night Menu Weekend Brunch Place for Singles Authentic Spanish Tapas Excellent Food Excellent Service Excellent Decor $15-$30 
+0000035	Short Drive Weekend Brunch Middle Eastern Moroccan Good Food Good Service Good Decor $15-$30 
+0000036	Cab Carry in Wine and Beer Creative Thai Excellent Food Fair Service Poor Decor below $15 
+0000037	Short Drive Weekend Brunch Little Known But Well Liked Relaxed Senior Scene Dancing Entertainment Spanish Extraordinary Food Excellent Service Good Decor $15-$30 
+0000038	Long Drive Parking/Valet Weekend Brunch Very Busy - Reservations a Must Private Parties Private Rooms Available Business Scene Seafood Excellent Food Excellent Service Excellent Decor $15-$30 
+0000039	Long Drive Italian Good Food Good Service Good Decor $15-$30 
+0000040	Cab Parking/Valet Weekend Brunch Private Parties Private Rooms Available Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000041	Long Drive Parking/Valet Relaxed Senior Scene Traditional Continental Excellent Food Excellent Service Excellent Decor $15-$30 
+0000042	Short Drive Weekend Brunch Relaxed Senior Scene Chinese Excellent Food Excellent Service Good Decor $15-$30 
+0000043	Long Drive Game An Out Of The Way Find Weekend Brunch Romantic Quiet for Conversation American (Traditional) Continental Excellent Food Excellent Service Excellent Decor $15-$30 
+0000044	Long Drive Weekend Brunch Parking/Valet Good for Younger Kids For the Young and Young at Heart Quirky Open for Breakfast American (Traditional) Coffee Shops Diners Excellent Food Excellent Service Good Decor below $15 
+0000045	Short Drive Parking/Valet Korean Excellent Food Good Service Good Decor $15-$30 
+0000046	Cab Great for People Watching Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Weekend Brunch Dining Outdoors Business Scene Italian Excellent Food Good Service Excellent Decor $15-$30 
+0000047	Long Drive An Out Of The Way Find Little Known But Well Liked Romantic Need To Dress Walk French Near-perfect Food Extraordinary Service Extraordinary Decor $15-$30 
+0000048	Short Drive Weekend Brunch Italian Excellent Food Good Service Good Decor $15-$30 
+0000049	Cab Pub Feel Singles Scene See the Game Weekend Brunch Place for Singles Private Parties Private Rooms Available American (Traditional) Good Food Good Service Good Decor $15-$30 
+0000050	Cab Weekend Brunch Place for Singles Classic Hotel Dining Business Scene American (Traditional) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000051	Cab Thai Excellent Food Good Service Good Decor below $15 
+0000052	Cab Weekend Brunch Parking/Valet Great Place to Meet for a Drink Game Weekend Brunch Dining Outdoors Hip Place To Be Business Scene French Bistro Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000053	Long Drive Weekend Brunch Parking/Valet Weekend Brunch Private Parties Private Rooms Available American (Traditional) Bar-B-Q Excellent Food Excellent Service Good Decor $15-$30 
+0000054	Short Drive Weekend Brunch Pub Feel Singles Scene See the Game Parking/Valet People Keep Coming Back Weekend Brunch Place for Singles Private Parties Private Rooms Available American (New) Good Food Good Service Good Decor below $15 
+0000055	Short Drive Buffet Dining Indian Excellent Food Excellent Service Good Decor $15-$30 
+0000056	Short Drive Great for People Watching Parking/Valet Weekend Brunch Private Parties Private Rooms Available Dining Outdoors Italian Excellent Food Good Service Excellent Decor $15-$30 
+0000057	Short Drive Parking/Valet Weekend Brunch Private Parties Private Rooms Available Italian Excellent Food Excellent Service Extraordinary Decor $15-$30 
+0000058	Short Drive Relaxed Senior Scene Private Parties Private Rooms Available Traditional Continental Austrian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000059	Short Drive Vietnamese Excellent Food Good Service Fair Decor below $15 
+0000060	Cab Tourist Appeal Weekend Brunch Pub Feel Singles Scene See the Game Great for People Watching Parking/Valet After Hours Dining Late Night Menu People Keep Coming Back For the Young and Young at Heart Weekend Brunch Place for Singles No Reservations Private Parties Private Rooms Available Hip Place To Be Traditional American (New) Good Food Good Service Excellent Decor $15-$30 
+0000061	Cab Weekend Brunch Good for Younger Kids Relaxed Senior Scene Private Parties Private Rooms Available American (Traditional) American (New) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000062	Cab Great Place to Meet for a Drink Romantic Private Parties Private Rooms Available Dancing Entertainment French Bistro Excellent Food Excellent Service Excellent Decor $15-$30 
+0000063	Long Drive Good Out of Town Business Very Busy - Reservations a Must Hip Place To Be Thai Near-perfect Food Extraordinary Service Extraordinary Decor $30-$50 
+0000064	Cab Weekend Brunch Good for Younger Kids For the Young and Young at Heart Private Parties Private Rooms Available Tex-Mex Excellent Food Excellent Service Excellent Decor $15-$30 
+0000065	Short Drive Weekend Brunch After Hours Dining Late Night Menu Weekend Brunch No Reservations Seafood Excellent Food Good Service Good Decor $15-$30 
+0000066	Short Drive Carry in Wine and Beer Thai Extraordinary Food Excellent Service Excellent Decor below $15 
+0000067	Short Drive Weekend Brunch Parking/Valet Weekend Brunch No Smoking Allowed Relaxed Senior Scene No Reservations Polish Excellent Food Good Service Fair Decor below $15 
+0000068	Cab Weekend Brunch Good for Younger Kids For the Young and Young at Heart No Reservations Pizza Excellent Food Good Service Good Decor below $15 
+0000069	Short Drive Parking/Valet Romantic Very Busy - Reservations a Must Quiet for Conversation Up and Coming Need To Dress French (New) Excellent Food Extraordinary Service Extraordinary Decor $30-$50 
+0000070	Long Drive Parking/Valet Weekend Brunch Relaxed Senior Scene Private Parties Private Rooms Available Seafood Steakhouses Excellent Food Excellent Service Excellent Decor $15-$30 
+0000071	Short Drive Parking/Valet Japanese Excellent Food Excellent Service Good Decor $15-$30 
+0000072	Long Drive Parking/Valet Relaxed Senior Scene Italian Good Food Excellent Service Excellent Decor $15-$30 
+0000073	Short Drive Relaxed Senior Scene Middle Eastern Good Food Good Service Good Decor $15-$30 
+0000074	Short Drive Carry in Wine and Beer Relaxed Senior Scene Authentic Scandinavian Good Food Good Service Good Decor $15-$30 
+0000075	Cab Weekend Brunch After Hours Dining Late Night Menu Good for Younger Kids People Keep Coming Back For the Young and Young at Heart Weekend Brunch No Reservations Dining Outdoors Hamburgers Coffee Shops Diners Good Food Good Service Good Decor below $15 
+0000076	Long Drive Parking/Valet An Out Of The Way Find Weekend Brunch Private Parties Private Rooms Available American (Regional) Extraordinary Food Excellent Service Extraordinary Decor $15-$30 
+0000077	Long Drive Weekend Brunch Parking/Valet Relaxed Senior Scene No Reservations American (Traditional) Hamburgers Excellent Food Excellent Service Good Decor below $15 
+0000078	Cab Weekend Brunch No Liquor Served Weekend Brunch Relaxed Senior Scene No Reservations An Historic Spot Delivery Available Takeout Available Open for Breakfast American (Traditional) Coffee Shops Diners Excellent Food Excellent Service Good Decor below $15 
+0000079	Cab Weekend Brunch Good for Younger Kids Relaxed Senior Scene No Reservations Catering for Special Events Open for Breakfast Deli Jewish Good Food Good Service Fair Decor below $15 
+0000080	Short Drive After Hours Dining Late Night Menu Weekend Brunch No Reservations Mexican Excellent Food Excellent Service Good Decor $15-$30 
+0000081	Short Drive Up and Coming Italian Good Food Good Service Good Decor $15-$30 
+0000082	Cab Parking/Valet After Hours Dining Late Night Menu Dancing Entertainment Greek Good Food Good Service Good Decor $15-$30 
+0000083	Short Drive Continental Polish Excellent Food Excellent Service Excellent Decor $15-$30 
+0000084	Short Drive Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000085	Short Drive Weekend Brunch Pub Feel Singles Scene See the Game Weekend Brunch Place for Singles Creative American (Traditional) Good Food Good Service Good Decor $15-$30 
+0000086	Cab Tourist Appeal Pub Feel Singles Scene See the Game Parking/Valet Weekend Brunch Private Parties Private Rooms Available Dancing Entertainment Steakhouses Extraordinary Food Excellent Service Excellent Decor $30-$50 
+0000087	Cab Weekend Brunch Relaxed Senior Scene Romantic Quiet for Conversation Private Parties Private Rooms Available Authentic Russian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000088	Short Drive Weekend Brunch Little Known But Well Liked Italian Extraordinary Food Excellent Service Good Decor $15-$30 
+0000089	Short Drive Chinese Extraordinary Food Extraordinary Service Excellent Decor below $15 
+0000090	Short Drive Parking/Valet Game Fabulous Wine Lists Good Out of Town Business Private Parties Private Rooms Available Classic Hotel Dining Business Scene American (Regional) Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000091	Cab Parking/Valet Power Brokers An Historic Spot Business Scene Traditional Traditional American (Traditional) German Excellent Food Excellent Service Good Decor $15-$30 
+0000092	Long Drive Parking/Valet Good for Younger Kids For the Young and Young at Heart Mexican Good Food Good Service Good Decor $15-$30 
+0000093	Cab Parking/Valet Weekend Brunch No Reservations Private Parties Private Rooms Available Mexican Good Food Good Service Good Decor $15-$30 
+0000094	Short Drive Parking/Valet Weekend Brunch Mediterranean Good Food Good Service Good Decor $15-$30 
+0000095	Cab Weekend Brunch Good for Younger Kids For the Young and Young at Heart Italian Pizza Excellent Food Good Service Good Decor below $15 
+0000096	Short Drive Game Weekend Brunch Relaxed Senior Scene German Excellent Food Excellent Service Excellent Decor $15-$30 
+0000097	Weekend Brunch No Reservations Pizza Excellent Food Good Service Good Decor below $15 
+0000098	Short Drive Little Known But Well Liked Italian Extraordinary Food Excellent Service Good Decor $15-$30 
+0000099	Cab Little Known But Well Liked Dancing Entertainment Tapas South American Extraordinary Food Excellent Service Good Decor below $15 
+0000100	Cab Parking/Valet Good Out of Town Business Power Brokers Private Parties Private Rooms Available Business Scene Steakhouses Good Food Good Service Good Decor $15-$30 
+0000101	Short Drive Parking/Valet Indian Excellent Food Excellent Service Good Decor $15-$30 
+0000102	Long Drive Weekend Brunch Good for Younger Kids For the Young and Young at Heart Italian Pizza Excellent Food Good Service Good Decor below $15 
+0000103	Cab Parking/Valet Weekend Brunch Romantic Very Busy - Reservations a Must Quiet for Conversation Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000104	Cab Parking/Valet Private Parties Private Rooms Available Japanese Excellent Food Excellent Service Extraordinary Decor $30-$50 
+0000105	Short Drive Parking/Valet Game Fabulous Wine Lists Good Out of Town Business Romantic Very Busy - Reservations a Must Prix Fixe Menus Power Brokers Private Parties Private Rooms Available Need To Dress Hip Place To Be French (New) Near-perfect Food Near-perfect Service Near-perfect Decor over $50 
+0000106	Long Drive Wheelchair Access Weekend Brunch Parking/Valet Good for Younger Kids For the Young and Young at Heart Weekend Brunch No Reservations Dining Outdoors Traditional Bar-B-Q Excellent Food Good Service Fair Decor below $15 
+0000107	Cab Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Very Busy - Reservations a Must Classic Hotel Dining Business Scene American (Traditional) Steakhouses Excellent Food Excellent Service Excellent Decor $30-$50 
+0000108	Long Drive Parking/Valet Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000109	Short Drive After Hours Dining Late Night Menu Weekend Brunch Relaxed Senior Scene Private Parties Private Rooms Available Dining Outdoors Mexican Good Food Good Service Good Decor $15-$30 
+0000110	Cab People Keep Coming Back Place for Singles Dining Outdoors An Historic Spot Authentic American (Traditional) Good Food Good Service Good Decor below $15 
+0000111	Long Drive Quirky Creative Eclectic Good Food Good Service Good Decor $15-$30 
+0000112	Short Drive Carry in Wine and Beer Weekend Brunch Romantic Traditional Fondue Excellent Food Excellent Service Good Decor $15-$30 
+0000113	Short Drive Weekend Brunch Focus on Dessert Fountain and Ice Cream Carry in Wine and Beer Weekend Brunch Dining Outdoors Coffeehouses Good Food Good Service Good Decor below $15 
+0000114	Cab Weekend Brunch Parking/Valet Relaxed Senior Scene Catering for Special Events Open for Breakfast Deli Coffee Shops Diners Jewish Extraordinary Food Good Service Fair Decor below $15 
+0000115	Long Drive Weekend Brunch Carry in Wine and Beer Weekend Brunch Italian Extraordinary Food Excellent Service Good Decor $15-$30 
+0000116	Cab Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Weekend Brunch Romantic Very Busy - Reservations a Must Quiet for Conversation Private Parties Private Rooms Available Need To Dress Business Scene Seafood Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000117	Cab Weekend Brunch Parking/Valet After Hours Dining Late Night Menu Good for Younger Kids For the Young and Young at Heart Pizza Excellent Food Good Service Good Decor below $15 
+0000118	Short Drive Relaxed Senior Scene French (New) Vietnamese Excellent Food Good Service Good Decor $15-$30 
+0000119	Short Drive Weekend Brunch Weekend Brunch Dining Outdoors Health Food Vegetarian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000120	Cab Parking/Valet Good Out of Town Business Weekend Brunch Very Busy - Reservations a Must Private Parties Private Rooms Available Business Scene Steakhouses Extraordinary Food Extraordinary Service Extraordinary Decor $15-$30 
+0000121	Short Drive Parking/Valet Weekend Brunch Quiet for Conversation Private Parties Private Rooms Available Dining Outdoors Eclectic American (New) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000122	Long Drive Wheelchair Access Weekend Brunch No Reservations Creative Asian Japanese Excellent Food Excellent Service Good Decor below $15 
+0000123	Long Drive An Out Of The Way Find Little Known But Well Liked Romantic Quiet for Conversation Need To Dress French Extraordinary Food Extraordinary Service Extraordinary Decor $15-$30 
+0000124	Long Drive Carry in Wine and Beer Indian Good Food Good Service Good Decor $15-$30 
+0000125	Cab Romantic Dancing Entertainment Business Scene Italian Excellent Food Excellent Service Excellent Decor $30-$50 
+0000126	Cab Weekend Brunch Private Parties Private Rooms Available Dining Outdoors Business Scene Mediterranean Excellent Food Excellent Service Excellent Decor $15-$30 
+0000127	Long Drive Game An Out Of The Way Find Weekend Brunch Romantic Very Busy - Reservations a Must Prix Fixe Menus French Extraordinary Food Extraordinary Service Excellent Decor $15-$30 
+0000128	Cab Parking/Valet Good Out of Town Business Classic Hotel Dining Japanese Excellent Food Excellent Service Excellent Decor $15-$30 
+0000129	Short Drive Weekend Brunch After Hours Dining Late Night Menu Chinese Dim Sum Extraordinary Food Good Service Fair Decor below $15 
+0000130	Cab Weekend Brunch Private Parties Private Rooms Available Business Scene Steakhouses Excellent Food Excellent Service Excellent Decor $15-$30 
+0000131	Long Drive Weekend Brunch Weekend Brunch No Reservations Delivery Available Takeout Available American (Traditional) Greek Excellent Food Excellent Service Fair Decor below $15 
+0000132	Cab People Keep Coming Back Delivery Available Takeout Available American (Traditional) Good Food Good Service Good Decor $15-$30 
+0000133	Tourist Appeal Weekend Brunch Parking/Valet After Hours Dining Late Night Menu Good for Younger Kids People Keep Coming Back For the Young and Young at Heart No Reservations Private Parties Private Rooms Available Dining Outdoors Quirky American (Traditional) Coffee Shops Diners Good Food Excellent Service Excellent Decor below $15 
+0000134	Short Drive Weekend Brunch After Hours Dining Late Night Menu Good for Younger Kids For the Young and Young at Heart Relaxed Senior Scene Private Parties Private Rooms Available Italian Pizza Excellent Food Excellent Service Good Decor $15-$30 
+0000135	Short Drive Parking/Valet Dining Outdoors Margaritas Mexican Good Food Good Service Good Decor $15-$30 
+0000136	Short Drive Parking/Valet Relaxed Senior Scene An Historic Spot Italian Good Food Good Service Good Decor $15-$30 
+0000137	Cab Tourist Appeal Weekend Brunch Parking/Valet After Hours Dining Late Night Menu Weekend Brunch Private Parties Private Rooms Available Authentic Greek Excellent Food Excellent Service Excellent Decor $15-$30 
+0000138	Long Drive Parking/Valet An Out Of The Way Find Weekend Brunch Romantic Quiet for Conversation Private Parties Private Rooms Available Up and Coming Business Scene Mediterranean Excellent Food Good Service Extraordinary Decor $15-$30 
+0000139	Cab Weekend Brunch Relaxed Senior Scene Creative Chinese Excellent Food Excellent Service Good Decor below $15 
+0000140	Short Drive Relaxed Senior Scene Thai Excellent Food Excellent Service Good Decor $15-$30 
+0000141	Cab Good Out of Town Business Business Scene Japanese Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000142	Long Drive An Out Of The Way Find Prix Fixe Menus Creative French Extraordinary Food Extraordinary Service Excellent Decor $30-$50 
+0000143	Short Drive Weekend Brunch Relaxed Senior Scene Chinese Excellent Food Excellent Service Good Decor $15-$30 
+0000144	Short Drive Parking/Valet Romantic Very Busy - Reservations a Must Up and Coming Hip Place To Be Authentic French Bistro Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000145	Long Drive Seafood Steakhouses Excellent Food Good Service Good Decor $15-$30 
+0000146	Long Drive Weekend Brunch Parking/Valet Good for Younger Kids Weekend Brunch Relaxed Senior Scene Private Parties Private Rooms Available Creative American (Traditional) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000147	Short Drive Little Known But Well Liked Italian Extraordinary Food Extraordinary Service Good Decor $15-$30 
+0000148	Cab Weekend Brunch Parking/Valet Good Out of Town Business Weekend Brunch Very Busy - Reservations a Must Power Brokers Private Parties Private Rooms Available Dining Outdoors Hip Place To Be Business Scene Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000149	Long Drive Carry in Wine and Beer Little Known But Well Liked Delivery Available Takeout Available Catering for Special Events Creative Eclectic American (New) Excellent Food Excellent Service Good Decor $15-$30 
+0000150	Long Drive Japanese Extraordinary Food Excellent Service Good Decor $15-$30 
+0000151	Cab Weekend Brunch Weekend Brunch Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000152	Short Drive Weekend Brunch Romantic Dining Outdoors French Bistro Excellent Food Excellent Service Excellent Decor $15-$30 
+0000153	Cab Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Weekend Brunch Steakhouses Extraordinary Food Excellent Service Excellent Decor $30-$50 
+0000154	Short Drive Carry in Wine and Beer Indian Good Food Good Service Good Decor $15-$30 
+0000155	Short Drive Weekend Brunch Relaxed Senior Scene Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000156	Cab Weekend Brunch Weekend Brunch Delivery Available Takeout Available Open for Breakfast Bakeries French Bistro Excellent Food Good Service Excellent Decor $15-$30 
+0000157	Cab Wheelchair Access Thai Good Food Good Service Good Decor below $15 
+0000158	Cab Dining After the Theater Weekend Brunch Relaxed Senior Scene Romantic Quiet for Conversation Private Parties Private Rooms Available Russian Good Food Good Service Good Decor $15-$30 
+0000159	Cab Business Scene Indian Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000160	Short Drive Parking/Valet Weekend Brunch Romantic Traditional Spanish Excellent Food Excellent Service Excellent Decor $15-$30 
+0000161	Cab Parking/Valet Good Out of Town Business Private Parties Private Rooms Available Business Scene Japanese Excellent Food Excellent Service Excellent Decor $15-$30 
+0000162	Cab Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Weekend Brunch Private Parties Private Rooms Available Business Scene Seafood Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000163	Cab Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Power Brokers Private Parties Private Rooms Available Dancing Entertainment Business Scene Seafood Excellent Food Excellent Service Excellent Decor $15-$30 
+0000164	Cab Tourist Appeal Pub Feel Singles Scene See the Game Great for People Watching Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Weekend Brunch Place for Singles Very Busy - Reservations a Must Private Parties Private Rooms Available Hip Place To Be Steakhouses Extraordinary Food Extraordinary Service Excellent Decor $30-$50 
+0000165	Short Drive Weekend Brunch Dining Outdoors French (New) Excellent Food Excellent Service Good Decor $15-$30 
+0000166	Long Drive Weekend Brunch Parking/Valet Good for Younger Kids Weekend Brunch Delivery Available Takeout Available American (Traditional) Bar-B-Q Excellent Food Good Service Fair Decor below $15 
+0000167	Cab Parking/Valet Weekend Brunch Private Parties Private Rooms Available Business Scene Steakhouses Excellent Food Excellent Service Good Decor $15-$30 
+0000168	Cab An Out Of The Way Find Weekend Brunch Romantic Very Busy - Reservations a Must Quiet for Conversation Private Parties Private Rooms Available Need To Dress French (New) Near-perfect Food Extraordinary Service Extraordinary Decor $30-$50 
+0000169	Cab Parking/Valet Classic Hotel Dining Dancing Entertainment Business Scene Italian Excellent Food Extraordinary Service Extraordinary Decor $30-$50 
+0000170	Long Drive Weekend Brunch Parking/Valet Weekend Brunch Little Known But Well Liked Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000171	Short Drive Weekend Brunch Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000172	Cab Parking/Valet Good Out of Town Business Very Busy - Reservations a Must Quiet for Conversation Up and Coming Business Scene Italian Extraordinary Food Excellent Service Extraordinary Decor $30-$50 
+0000173	Long Drive Weekend Brunch Carry in Wine and Beer Chinese Excellent Food Excellent Service Good Decor $15-$30 
+0000174	Long Drive Weekend Brunch Parking/Valet An Out Of The Way Find Weekend Brunch Romantic Quiet for Conversation Private Parties Private Rooms Available Up and Coming Continental Excellent Food Excellent Service Excellent Decor $15-$30 
+0000175	Long Drive Parking/Valet Good Out of Town Business Private Parties Private Rooms Available Classic Hotel Dining Business Scene American (Traditional) Extraordinary Food Extraordinary Service Excellent Decor $15-$30 
+0000176	Short Drive Carry in Wine and Beer Chinese Excellent Food Good Service Fair Decor $15-$30 
+0000177	Long Drive Parking/Valet Weekend Brunch Continental French (New) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000178	Cab Parking/Valet Good Out of Town Business Power Brokers Business Scene Italian Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000179	Short Drive Weekend Brunch Good for Younger Kids For the Young and Young at Heart Weekend Brunch No Reservations Open for Breakfast American (Traditional) Good Food Good Service Fair Decor below $15 
+0000180	Short Drive Carry in Wine and Beer Weekend Brunch No Reservations Delivery Available Takeout Available Caribbean Good Food Good Service Good Decor $15-$30 
+0000181	Short Drive Weekend Brunch Parking/Valet Weekend Brunch Relaxed Senior Scene Buffet Dining Polish Good Food Good Service Good Decor $15-$30 
+0000182	Short Drive Relaxed Senior Scene Greek Excellent Food Good Service Good Decor $15-$30 
+0000183	Long Drive Parking/Valet Weekend Brunch Little Known But Well Liked No Reservations Steakhouses Extraordinary Food Excellent Service Good Decor $15-$30 
+0000184	Short Drive Parking/Valet Weekend Brunch Private Parties Private Rooms Available Walk Dancing Entertainment Italian Good Food Good Service Good Decor $15-$30 
+0000185	Long Drive Traditional Thai Excellent Food Good Service Fair Decor below $15 
+0000186	Short Drive Parking/Valet Weekend Brunch Very Busy - Reservations a Must Private Parties Private Rooms Available Traditional Italian Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000187	Long Drive Parking/Valet An Out Of The Way Find Fabulous Wine Lists Good Out of Town Business Romantic Very Busy - Reservations a Must Private Parties Private Rooms Available Business Scene French (New) Near-perfect Food Extraordinary Service Extraordinary Decor $30-$50 
+0000188	Long Drive Parking/Valet An Out Of The Way Find Little Known But Well Liked Private Parties Private Rooms Available American (New) Extraordinary Food Extraordinary Service Extraordinary Decor $15-$30 
+0000189	Cab Weekend Brunch Italian Extraordinary Food Extraordinary Service Extraordinary Decor $15-$30 
+0000190	Long Drive Weekend Brunch Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000191	Cab Parking/Valet Great Place to Meet for a Drink Weekend Brunch Up and Coming Hip Place To Be Business Scene American (New) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000192	Long Drive Good for Younger Kids For the Young and Young at Heart Relaxed Senior Scene Open for Breakfast American (Traditional) Extraordinary Food Excellent Service Excellent Decor below $15 
+0000193	Long Drive Weekend Brunch Parking/Valet Weekend Brunch Greek Excellent Food Excellent Service Excellent Decor $15-$30 
+0000194	Cab Dining Outdoors Tex-Mex Good Food Good Service Good Decor $15-$30 
+0000195	Short Drive No Smoking Allowed Dancing Entertainment Bar-B-Q Good Food Good Service Good Decor $15-$30 
+0000196	Short Drive Parking/Valet Weekend Brunch Little Known But Well Liked Creative Italian Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000197	Cab Weekend Brunch Pub Feel Singles Scene See the Game Great for People Watching Parking/Valet People Keep Coming Back Weekend Brunch Private Parties Private Rooms Available Hip Place To Be Business Scene American (New) Good Food Good Service Excellent Decor $15-$30 
+0000198	Cab Parking/Valet An Out Of The Way Find Weekend Brunch Relaxed Senior Scene Private Parties Private Rooms Available Dining Outdoors American (Traditional) Excellent Food Excellent Service Extraordinary Decor $15-$30 
+0000199	Long Drive Parking/Valet Game An Out Of The Way Find Fabulous Wine Lists Weekend Brunch Romantic Very Busy - Reservations a Must Quiet for Conversation Prix Fixe Menus Private Parties Private Rooms Available Need To Dress Walk French (New) Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000200	Short Drive Weekend Brunch Parking/Valet Weekend Brunch Seafood Good Food Good Service Fair Decor $15-$30 
+0000201	Short Drive Pub Feel Singles Scene See the Game Weekend Brunch Place for Singles No Reservations Traditional Authentic English Good Food Good Service Excellent Decor below $15 
+0000202	Short Drive Weekend Brunch Ethiopian Excellent Food Good Service Fair Decor below $15 
+0000203	Cab Weekend Brunch Parking/Valet Great Place to Meet for a Drink Up and Coming Business Scene American (Regional) Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000204	Cab Relaxed Senior Scene No Reservations Open for Breakfast Creative American (Traditional) Excellent Food Excellent Service Good Decor below $15 
+0000205	Cab Wheelchair Access Relaxed Senior Scene Thai Extraordinary Food Excellent Service Good Decor below $15 
+0000206	Short Drive Parking/Valet Game Weekend Brunch Relaxed Senior Scene Private Parties Private Rooms Available An Historic Spot Dancing Entertainment German Excellent Food Excellent Service Excellent Decor $15-$30 
+0000207	Short Drive Weekend Brunch After Hours Dining Late Night Menu Carry in Wine and Beer Weekend Brunch No Reservations Dining Outdoors Mexican Good Food Good Service Fair Decor below $15 
+0000208	Cab Business Scene Traditional American (Traditional) Good Food Good Service Good Decor $15-$30 
+0000209	Long Drive Parking/Valet Weekend Brunch Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000210	Long Drive Weekend Brunch Private Parties Private Rooms Available Buffet Dining Chinese Excellent Food Excellent Service Good Decor $15-$30 
+0000211	Cab Parking/Valet Business Scene Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000212	Short Drive Weekend Brunch Quiet for Conversation Up and Coming Creative American (New) Extraordinary Food Excellent Service Good Decor $15-$30 
+0000213	Short Drive Parking/Valet Weekend Brunch Private Parties Private Rooms Available Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000214	Short Drive Persian Excellent Food Good Service Good Decor below $15 
+0000215	Short Drive Weekend Brunch Relaxed Senior Scene Traditional Polish Excellent Food Excellent Service Excellent Decor $15-$30 
+0000216	Short Drive Weekend Brunch Parking/Valet Good for Younger Kids For the Young and Young at Heart Delivery Available Takeout Available Bar-B-Q Excellent Food Good Service Fair Decor $15-$30 
+0000217	Long Drive Weekend Brunch After Hours Dining Late Night Menu Weekend Brunch Dancing Entertainment Irish Good Food Good Service Good Decor $15-$30 
+0000218	Cab Parking/Valet Private Parties Private Rooms Available Continental Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000219	Cab Weekend Brunch Pub Feel Singles Scene See the Game After Hours Dining Late Night Menu Good for Younger Kids People Keep Coming Back For the Young and Young at Heart Place for Singles Dining Outdoors Dancing Entertainment American (Traditional) Eclectic Good Food Good Service Good Decor $15-$30 
+0000220	Short Drive Weekend Brunch An Historic Spot Traditional Bar-B-Q Extraordinary Food Excellent Service Good Decor $15-$30 
+0000221	Short Drive Weekend Brunch Parking/Valet Good for Younger Kids For the Young and Young at Heart Relaxed Senior Scene Private Parties Private Rooms Available Italian Pizza Excellent Food Good Service Good Decor $15-$30 
+0000222	Cab Tourist Appeal Weekend Brunch Parking/Valet After Hours Dining Late Night Menu Weekend Brunch Very Busy - Reservations a Must Private Parties Private Rooms Available Traditional Greek Excellent Food Excellent Service Good Decor $15-$30 
+0000223	Cab Great Place to Meet for a Drink Good Out of Town Business Weekend Brunch Romantic Private Parties Private Rooms Available Dining Outdoors Hip Place To Be Business Scene Italian Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000224	Short Drive Weekend Brunch Pub Feel Singles Scene See the Game Place for Singles Authentic Scottish Good Food Excellent Service Excellent Decor below $15 
+0000225	Long Drive Parking/Valet An Out Of The Way Find Weekend Brunch Romantic Very Busy - Reservations a Must Quiet for Conversation Private Parties Private Rooms Available Continental Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000226	Long Drive Game An Out Of The Way Find Romantic Quiet for Conversation Prix Fixe Menus Private Parties Private Rooms Available French Bistro Extraordinary Food Extraordinary Service Excellent Decor $15-$30 
+0000227	Cab Tourist Appeal Weekend Brunch Pub Feel Singles Scene See the Game Parking/Valet Good for Younger Kids People Keep Coming Back For the Young and Young at Heart Weekend Brunch No Reservations Private Parties Private Rooms Available Quirky Hip Place To Be Eclectic Hamburgers Good Food Good Service Excellent Decor $15-$30 
+0000228	Cab Dining Outdoors Delivery Available Takeout Available Italian Excellent Food Excellent Service Fair Decor $15-$30 
+0000229	Short Drive Parking/Valet Weekend Brunch Very Busy - Reservations a Must Power Brokers Business Scene Italian Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000230	Cab Tourist Appeal Great for People Watching Parking/Valet Weekend Brunch Hip Place To Be Business Scene Italian Pizza Extraordinary Food Excellent Service Extraordinary Decor $15-$30 
+0000231	Short Drive Parking/Valet Japanese Excellent Food Excellent Service Good Decor $15-$30 
+0000232	Cab Parking/Valet Weekend Brunch Power Brokers Traditional Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000233	Long Drive Parking/Valet Private Parties Private Rooms Available Dining Outdoors Traditional Authentic Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000234	Cab Weekend Brunch Parking/Valet Good for Younger Kids For the Young and Young at Heart Traditional Italian Pizza Good Food Good Service Good Decor below $15 
+0000235	Short Drive Weekend Brunch Carry in Wine and Beer Little Known But Well Liked Relaxed Senior Scene Vietnamese Extraordinary Food Good Service Fair Decor below $15 
+0000236	Cab Parking/Valet Up and Coming Business Scene Italian Good Food Good Service Good Decor $15-$30 
+0000237	Short Drive Buffet Dining Indian Excellent Food Good Service Fair Decor $15-$30 
+0000238	Long Drive Weekend Brunch Parking/Valet No Liquor Served Weekend Brunch No Smoking Allowed Private Parties Private Rooms Available Buffet Dining American (Traditional) Continental Good Food Good Service Good Decor $15-$30 
+0000239	Long Drive Weekend Brunch Parking/Valet Weekend Brunch Relaxed Senior Scene Private Parties Private Rooms Available Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000240	Cab Weekend Brunch Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000241	Long Drive Parking/Valet Weekend Brunch Very Busy - Reservations a Must Private Parties Private Rooms Available Dancing Entertainment Mediterranean Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000242	Long Drive Pre-theater Dining Parking/Valet Game An Out Of The Way Find Fabulous Wine Lists Romantic Very Busy - Reservations a Must Quiet for Conversation Private Parties Private Rooms Available Need To Dress French Near-perfect Food Near-perfect Service Extraordinary Decor $30-$50 
+0000243	Long Drive Parking/Valet Relaxed Senior Scene Italian Good Food Good Service Good Decor $15-$30 
+0000244	Long Drive Parking/Valet An Out Of The Way Find Weekend Brunch Little Known But Well Liked Romantic Private Parties Private Rooms Available Creative Italian Extraordinary Food Extraordinary Service Extraordinary Decor $15-$30 
+0000245	Long Drive Parking/Valet Weekend Brunch Private Parties Private Rooms Available Italian Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000246	Long Drive An Out Of The Way Find Good Out of Town Business Romantic Very Busy - Reservations a Must Quiet for Conversation Prix Fixe Menus Private Parties Private Rooms Available Up and Coming Need To Dress Hip Place To Be French (New) Italian Near-perfect Food Extraordinary Service Extraordinary Decor $30-$50 
+0000247	Short Drive Weekend Brunch After Hours Dining Late Night Menu Mexican Excellent Food Good Service Good Decor below $15 
+0000248	Short Drive Weekend Brunch Fine for Dining Alone Asian Good Food Good Service Good Decor $15-$30 
+0000249	Cab Parking/Valet Weekend Brunch Traditional Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000250	Cab Weekend Brunch Parking/Valet Good Out of Town Business Need To Dress Classic Hotel Dining An Historic Spot Business Scene Seafood Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000251	Short Drive Vietnamese Excellent Food Good Service Fair Decor below $15 
+0000252	Short Drive Weekend Brunch Parking/Valet After Hours Dining Late Night Menu Good for Younger Kids People Keep Coming Back For the Young and Young at Heart Traditional Italian Pizza Good Food Good Service Good Decor below $15 
+0000253	Short Drive Parking/Valet Fabulous Wine Lists Weekend Brunch Romantic Very Busy - Reservations a Must Walk Dancing Entertainment Fondue Good Food Good Service Good Decor $15-$30 
+0000254	Short Drive After Hours Dining Late Night Menu Dancing Entertainment French Bistro Excellent Food Excellent Service Good Decor $15-$30 
+0000255	Short Drive Weekend Brunch Little Known But Well Liked Relaxed Senior Scene Private Parties Private Rooms Available Chinese Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000256	Cab Classic Hotel Dining American (New) Good Food Good Service Good Decor $15-$30 
+0000257	Long Drive Parking/Valet Little Known But Well Liked Relaxed Senior Scene Italian Good Food Good Service Good Decor $15-$30 
+0000258	Cab Quiet for Conversation Middle Eastern Excellent Food Excellent Service Excellent Decor $15-$30 
+0000259	Cab Parking/Valet Weekend Brunch Quiet for Conversation Private Parties Private Rooms Available Dining Outdoors Up and Coming Creative Italian Mediterranean Excellent Food Good Service Excellent Decor $15-$30 
+0000260	Cab Weekend Brunch Great Place to Meet for a Drink Good Out of Town Business Very Busy - Reservations a Must Private Parties Private Rooms Available Need To Dress Italian Extraordinary Food Extraordinary Service Near-perfect Decor $30-$50 
+0000261	Cab Carry in Wine and Beer No Reservations Middle Eastern Excellent Food Good Service Fair Decor below $15 
+0000262	Cab Weekend Brunch Parking/Valet Weekend Brunch Relaxed Senior Scene Dining Outdoors Business Scene Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000263	Long Drive Chinese Excellent Food Excellent Service Excellent Decor $15-$30 
+0000264	Short Drive Weekend Brunch Afghanistan Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000265	Short Drive Parking/Valet Weekend Brunch Private Parties Private Rooms Available Seafood Mexican Excellent Food Excellent Service Good Decor $15-$30 
+0000266	Long Drive Weekend Brunch Quiet for Conversation Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000267	Cab Up and Coming French (New) Good Food Good Service Good Decor $15-$30 
+0000268	Short Drive Weekend Brunch Puerto Rican Good Food Good Service Good Decor $15-$30 
+0000269	Cab Carry in Wine and Beer Thai Excellent Food Good Service Fair Decor below $15 
+0000270	Long Drive Parking/Valet Japanese Good Food Good Service Good Decor $15-$30 
+0000271	Long Drive Weekend Brunch Parking/Valet Good for Younger Kids For the Young and Young at Heart Relaxed Senior Scene Private Parties Private Rooms Available Italian Pizza Good Food Good Service Good Decor $15-$30 
+0000272	Short Drive Italian Good Food Good Service Good Decor $15-$30 
+0000273	Short Drive Weekend Brunch No Reservations Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000274	Short Drive After Hours Dining Late Night Menu Japanese Excellent Food Good Service Excellent Decor below $15 
+0000275	Short Drive Weekend Brunch Carry in Wine and Beer No Reservations Fine for Dining Alone Chinese Thai Asian Excellent Food Good Service Good Decor below $15 
+0000276	Short Drive Carry in Wine and Beer Relaxed Senior Scene Traditional Thai Excellent Food Excellent Service Good Decor below $15 
+0000277	Cab Parking/Valet Classic Hotel Dining Business Scene American (Traditional) Italian Excellent Food Excellent Service Extraordinary Decor $15-$30 
+0000278	Cab Weekend Brunch Pub Feel Singles Scene See the Game Weekend Brunch Place for Singles Dining Outdoors American (Traditional) Good Food Good Service Excellent Decor $15-$30 
+0000279	Parking/Valet Good Out of Town Business Business Scene Steakhouses Good Food Good Service Good Decor $15-$30 
+0000280	Cab Thai Excellent Food Good Service Fair Decor below $15 
+0000281	Long Drive Parking/Valet Weekend Brunch Private Parties Private Rooms Available American (Traditional) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000282	Cab Parking/Valet Romantic Very Busy - Reservations a Must Power Brokers Hip Place To Be Business Scene French Bistro Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000283	Long Drive An Out Of The Way Find Romantic Very Busy - Reservations a Must Quiet for Conversation Prix Fixe Menus Dining Outdoors Need To Dress Walk French Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000284	Short Drive Weekend Brunch Good for Younger Kids For the Young and Young at Heart Weekend Brunch No Reservations American (Traditional) Excellent Food Excellent Service Good Decor $15-$30 
+0000285	Cab Weekend Brunch Parking/Valet After Hours Dining Late Night Menu Relaxed Senior Scene Classic Hotel Dining Business Scene American (New) Good Food Good Service Good Decor $15-$30 
+0000286	Long Drive Wheelchair Access Weekend Brunch Weekend Brunch No Reservations Creative American (New) Excellent Food Excellent Service Good Decor below $15 
+0000287	Short Drive Japanese Extraordinary Food Excellent Service Good Decor $15-$30 
+0000288	Long Drive Wheelchair Access Weekend Brunch Weekend Brunch No Smoking Allowed No Reservations Health Conscious Menus Delivery Available Takeout Available Catering for Special Events Open for Breakfast Health Food Vegetarian Excellent Food Excellent Service Good Decor below $15 
+0000289	Cab Great for People Watching Parking/Valet Weekend Brunch Place for Singles Romantic Hip Place To Be Italian Excellent Food Excellent Service Extraordinary Decor $15-$30 
+0000290	Long Drive An Out Of The Way Find Japanese Extraordinary Food Extraordinary Service Excellent Decor $15-$30 
+0000291	Short Drive Weekend Brunch Parking/Valet After Hours Dining Late Night Menu Good for Younger Kids For the Young and Young at Heart Traditional Tex-Mex Good Food Good Service Good Decor $15-$30 
+0000292	Short Drive Relaxed Senior Scene Thai Extraordinary Food Excellent Service Fair Decor below $15 
+0000293	Wheelchair Access Parking/Valet Focus on Dessert Fountain and Ice Cream Relaxed Senior Scene No Reservations Dining Outdoors Bakeries Continental Excellent Food Excellent Service Excellent Decor below $15 
+0000294	Long Drive An Out Of The Way Find Weekend Brunch Little Known But Well Liked Romantic No Reservations Private Parties Private Rooms Available Dining Outdoors Up and Coming Italian Extraordinary Food Extraordinary Service Excellent Decor $15-$30 
+0000295	Cab Relaxed Senior Scene No Reservations Italian Good Food Good Service Good Decor $15-$30 
+0000296	Short Drive Weekend Brunch No Reservations Creative Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000297	Short Drive American (Traditional) Good Food Good Service Good Decor $15-$30 
+0000298	Cab Weekend Brunch Relaxed Senior Scene Classic Hotel Dining Business Scene Buffet Dining American (Traditional) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000299	Short Drive Weekend Brunch Parking/Valet Weekend Brunch Private Parties Private Rooms Available Dining Outdoors Hip Place To Be Spanish Tapas Extraordinary Food Excellent Service Extraordinary Decor $15-$30 
+0000300	Short Drive Japanese Extraordinary Food Excellent Service Good Decor $15-$30 
+0000301	Cab Weekend Brunch Mexican Excellent Food Excellent Service Excellent Decor $15-$30 
+0000302	Cab Parking/Valet Weekend Brunch Romantic Quiet for Conversation Private Parties Private Rooms Available Dining Outdoors Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000303	Short Drive Pub Feel Singles Scene See the Game Quirky Eclectic Good Food Good Service Good Decor $15-$30 
+0000304	Short Drive Weekend Brunch Parking/Valet After Hours Dining Late Night Menu Relaxed Senior Scene Catering for Special Events Open for Breakfast Deli Jewish Good Food Good Service Fair Decor below $15 
+0000305	Short Drive Parking/Valet Weekend Brunch Relaxed Senior Scene Private Parties Private Rooms Available Ukranian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000306	Long Drive Fabulous Wine Lists Weekend Brunch Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000307	Long Drive Pre-theater Dining Parking/Valet Game An Out Of The Way Find Fabulous Wine Lists Weekend Brunch Romantic Very Busy - Reservations a Must Quiet for Conversation Prix Fixe Menus Private Parties Private Rooms Available Need To Dress Hip Place To Be Health Conscious Menus French (New) Near-perfect Food Near-perfect Service Extraordinary Decor over $50 
+0000308	Cab Tourist Appeal Weekend Brunch Relaxed Senior Scene Private Parties Private Rooms Available An Historic Spot Traditional Traditional German Excellent Food Excellent Service Excellent Decor $15-$30 
+0000309	Long Drive Parking/Valet Weekend Brunch Relaxed Senior Scene Italian Steakhouses Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000310	Long Drive Weekend Brunch Delivery Available Takeout Available Guatemalan Excellent Food Excellent Service Good Decor below $15 
+0000311	Short Drive After Hours Dining Late Night Menu Chinese Extraordinary Food Excellent Service Good Decor $15-$30 
+0000312	Long Drive Parking/Valet After Hours Dining Late Night Menu Japanese Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000313	Long Drive Parking/Valet Good for Younger Kids Steakhouses Good Food Excellent Service Excellent Decor $15-$30 
+0000314	Cab Weekend Brunch Parking/Valet Weekend Brunch Dining Outdoors Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000315	Long Drive Parking/Valet Game Weekend Brunch Relaxed Senior Scene Private Parties Private Rooms Available Czech Excellent Food Excellent Service Good Decor below $15 
+0000316	Short Drive Wheelchair Access Eclectic Good Food Excellent Service Good Decor $15-$30 
+0000317	Cab Very Busy - Reservations a Must Private Parties Private Rooms Available Mexican Near-perfect Food Extraordinary Service Extraordinary Decor $30-$50 
+0000318	Short Drive Weekend Brunch Good for Younger Kids For the Young and Young at Heart Weekend Brunch No Reservations Open for Breakfast American (Traditional) Coffee Shops Diners Good Food Good Service Fair Decor below $15 
+0000319	Cab Weekend Brunch Catering for Special Events Open for Breakfast Deli Jewish Excellent Food Good Service Fair Decor below $15 
+0000320	Short Drive Weekend Brunch Romantic No Reservations Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000321	Cab Seafood Good Food Good Service Good Decor $15-$30 
+0000322	Long Drive Japanese Excellent Food Excellent Service Excellent Decor $15-$30 
+0000323	Cab Parking/Valet People Keep Coming Back Weekend Brunch Very Busy - Reservations a Must Private Parties Private Rooms Available Dancing Entertainment Steakhouses Good Food Good Service Good Decor $15-$30 
+0000324	Cab Parking/Valet Dancing Entertainment Business Scene Margaritas Mexican Good Food Good Service Good Decor $15-$30 
+0000325	Long Drive American (New) Excellent Food Good Service Excellent Decor $15-$30 
+0000326	Short Drive Weekend Brunch Greek Seafood Excellent Food Excellent Service Good Decor $15-$30 
+0000327	Long Drive Weekend Brunch Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000328	Short Drive Relaxed Senior Scene Dancing Entertainment Lebanese Good Food Good Service Good Decor $15-$30 
+0000329	Cab Parking/Valet Weekend Brunch Very Busy - Reservations a Must Dining Outdoors Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000330	Long Drive Parking/Valet Little Known But Well Liked South American Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000331	Long Drive Weekend Brunch Parking/Valet Good for Younger Kids Weekend Brunch Steakhouses Good Food Good Service Good Decor $15-$30 
+0000332	Cab Parking/Valet Weekend Brunch Power Brokers Private Parties Private Rooms Available Hip Place To Be Business Scene American (Traditional) Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000333	Cab Weekend Brunch Good for Younger Kids Weekend Brunch No Reservations Fine for Dining Alone Delivery Available Takeout Available Greek Excellent Food Excellent Service Fair Decor below $15 
+0000334	Short Drive Weekend Brunch Parking/Valet After Hours Dining Late Night Menu Good for Younger Kids For the Young and Young at Heart Relaxed Senior Scene Private Parties Private Rooms Available Italian Pizza Excellent Food Good Service Good Decor below $15 
+0000335	Long Drive Parking/Valet Weekend Brunch Seafood Excellent Food Excellent Service Excellent Decor $15-$30 
+0000336	Cab Weekend Brunch Parking/Valet Weekend Brunch No Reservations Delivery Available Takeout Available Eclectic Excellent Food Excellent Service Good Decor below $15 
+0000337	Long Drive Weekend Brunch Little Known But Well Liked Relaxed Senior Scene Romantic Quiet for Conversation Italian Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000338	Short Drive Weekend Brunch Parking/Valet Indian Excellent Food Excellent Service Good Decor $15-$30 
+0000339	Short Drive Weekend Brunch Prix Fixe Menus Creative American (New) Excellent Food Excellent Service Good Decor $15-$30 
+0000340	Long Drive Weekend Brunch Parking/Valet After Hours Dining Late Night Menu Relaxed Senior Scene No Reservations Continental French Bistro Good Food Good Service Good Decor $15-$30 
+0000341	Short Drive Good for Younger Kids For the Young and Young at Heart Mexican Good Food Excellent Service Good Decor below $15 
+0000342	Short Drive Parking/Valet Weekend Brunch No Reservations Creative Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000343	Short Drive Focus on Dessert Fountain and Ice Cream No Reservations Private Parties Private Rooms Available Dining Outdoors Hip Place To Be Open for Breakfast American (New) Excellent Food Excellent Service Excellent Decor below $15 
+0000344	Cab Parking/Valet Good Out of Town Business Weekend Brunch Business Scene Steakhouses Excellent Food Excellent Service Good Decor $15-$30 
+0000345	Long Drive Carry in Wine and Beer Weekend Brunch Quiet for Conversation American (Traditional) Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000346	Cab Parking/Valet Japanese Excellent Food Excellent Service Excellent Decor $15-$30 
+0000347	Cab Parking/Valet Good Out of Town Business Classic Hotel Dining Business Scene American (New) Good Food Good Service Good Decor $15-$30 
+0000348	Long Drive Parking/Valet An Out Of The Way Find Romantic Quiet for Conversation Private Parties Private Rooms Available Up and Coming American (New) Extraordinary Food Extraordinary Service Excellent Decor $30-$50 
+0000349	Cab Weekend Brunch Parking/Valet Good Out of Town Business Weekend Brunch Very Busy - Reservations a Must Private Parties Private Rooms Available Up and Coming Business Scene Italian Seafood Excellent Food Excellent Service Excellent Decor $30-$50 
+0000350	Long Drive Weekend Brunch Weekend Brunch Authentic Mexican Excellent Food Excellent Service Good Decor below $15 
+0000351	Short Drive Weekend Brunch Relaxed Senior Scene Catering for Special Events Open for Breakfast Deli Jewish Excellent Food Good Service Good Decor below $15 
+0000352	Long Drive Parking/Valet Private Parties Private Rooms Available Buffet Dining Chinese Good Food Good Service Good Decor $15-$30 
+0000353	Parking/Valet An Out Of The Way Find Weekend Brunch Very Busy - Reservations a Must Up and Coming Hip Place To Be Spanish Tapas Extraordinary Food Extraordinary Service Extraordinary Decor $15-$30 
+0000354	Cab Weekend Brunch Parking/Valet Good for Younger Kids For the Young and Young at Heart Pizza Excellent Food Excellent Service Good Decor below $15 
+0000355	Cab Parking/Valet Weekend Brunch Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000356	Long Drive Parking/Valet An Out Of The Way Find Quiet for Conversation Prix Fixe Menus Need To Dress Creative French Extraordinary Food Extraordinary Service Excellent Decor $15-$30 
+0000357	Long Drive An Out Of The Way Find Good Out of Town Business Romantic Quiet for Conversation Need To Dress Continental French Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000358	Short Drive Traditional Chinese Good Food Good Service Fair Decor below $15 
+0000359	Long Drive Wheelchair Access Carry in Wine and Beer Weekend Brunch No Reservations Italian Excellent Food Excellent Service Fair Decor below $15 
+0000360	Cab Weekend Brunch Parking/Valet Good Out of Town Business No Reservations Private Parties Private Rooms Available Up and Coming Classic Hotel Dining Business Scene American (New) Good Food Good Service Good Decor $15-$30 
+0000361	Long Drive Parking/Valet Weekend Brunch Relaxed Senior Scene Romantic Prix Fixe Menus Private Parties Private Rooms Available Buffet Dining American (Traditional) Good Food Excellent Service Extraordinary Decor $15-$30 
+0000362	Cab Weekend Brunch Relaxed Senior Scene Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000363	Long Drive Weekend Brunch Traditional Greek Good Food Good Service Good Decor $15-$30 
+0000364	Short Drive Parking/Valet Weekend Brunch Very Busy - Reservations a Must Private Parties Private Rooms Available Italian Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000365	Short Drive Carry in Wine and Beer Weekend Brunch Relaxed Senior Scene Delivery Available Takeout Available Lithuanian Good Food Good Service Fair Decor below $15 
+0000366	Short Drive Up and Coming Eclectic Good Food Good Service Good Decor $15-$30 
+0000367	Long Drive Up and Coming Eclectic Good Food Good Service Good Decor $15-$30 
+0000368	Long Drive Weekend Brunch An Out Of The Way Find Weekend Brunch Private Parties Private Rooms Available Up and Coming Spanish Tapas Extraordinary Food Extraordinary Service Extraordinary Decor $15-$30 
+0000369	Cab Wheelchair Access Weekend Brunch Good for Younger Kids For the Young and Young at Heart Relaxed Senior Scene No Reservations Hip Place To Be Delivery Available Takeout Available Eclectic Excellent Food Good Service Excellent Decor below $15 
+0000370	Short Drive Parking/Valet Game Fabulous Wine Lists Good Out of Town Business No Smoking Allowed Romantic Very Busy - Reservations a Must Prix Fixe Menus Private Parties Private Rooms Available Need To Dress Hip Place To Be Health Conscious Menus Creative American (New) Near-perfect Food Near-perfect Service Extraordinary Decor over $50 
+0000371	Short Drive Great for People Watching After Hours Dining Late Night Menu Weekend Brunch Hip Place To Be Dancing Entertainment Tapas Excellent Food Excellent Service Extraordinary Decor $15-$30 
+0000372	Long Drive An Out Of The Way Find Up and Coming Eclectic Good Food Good Service Good Decor $15-$30 
+0000373	Cab Parking/Valet Weekend Brunch Private Parties Private Rooms Available Dining Outdoors Up and Coming Business Scene Italian Good Food Good Service Good Decor $15-$30 
+0000374	Long Drive Wheelchair Access Weekend Brunch No Reservations Italian Pizza Good Food Good Service Good Decor $15-$30 
+0000375	Short Drive Parking/Valet Weekend Brunch Prix Fixe Menus Up and Coming American (New) Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000376	Cab Relaxed Senior Scene Open for Breakfast American (Traditional) Deli Jewish Good Food Good Service Good Decor below $15 
+0000377	Long Drive Parking/Valet Game An Out Of The Way Find Weekend Brunch Need To Dress Walk French (New) American (New) Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000378	Short Drive Weekend Brunch Pub Feel Singles Scene See the Game Parking/Valet Good for Younger Kids For the Young and Young at Heart Weekend Brunch Place for Singles Traditional American (Traditional) Good Food Good Service Good Decor below $15 
+0000379	Cab Great for People Watching Great Place to Meet for a Drink Weekend Brunch Place for Singles Romantic Private Parties Private Rooms Available Dining Outdoors Dancing Entertainment French Bistro Excellent Food Excellent Service Excellent Decor $15-$30 
+0000380	Cab Wheelchair Access Weekend Brunch Parking/Valet Good for Younger Kids For the Young and Young at Heart No Reservations Italian Pizza Excellent Food Good Service Fair Decor below $15 
+0000381	Short Drive Weekend Brunch Korean Excellent Food Excellent Service Fair Decor below $15 
+0000382	Long Drive Little Known But Well Liked Chinese Excellent Food Excellent Service Good Decor $15-$30 
+0000383	Long Drive An Out Of The Way Find Romantic Quiet for Conversation Private Parties Private Rooms Available Creative Italian Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000384	Cab Parking/Valet Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000385	Short Drive Wheelchair Access Thai Excellent Food Excellent Service Fair Decor below $15 
+0000386	Long Drive Parking/Valet Relaxed Senior Scene Chinese Excellent Food Excellent Service Good Decor $15-$30 
+0000387	Short Drive Carry in Wine and Beer Weekend Brunch Italian Excellent Food Excellent Service Good Decor below $15 
+0000388	Short Drive After Hours Dining Late Night Menu Relaxed Senior Scene Jewish Good Food Good Service Good Decor below $15 
+0000389	Cab Parking/Valet For the Young and Young at Heart Weekend Brunch Place for Singles Italian Pizza Good Food Good Service Good Decor $15-$30 
+0000390	Short Drive Weekend Brunch Creative Southwestern Tapas Excellent Food Good Service Good Decor $15-$30 
+0000391	Short Drive Parking/Valet Weekend Brunch Relaxed Senior Scene Traditional Bar-B-Q Excellent Food Good Service Good Decor $15-$30 
+0000392	Long Drive Parking/Valet Weekend Brunch Relaxed Senior Scene Private Parties Private Rooms Available Business Scene Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000393	Cab Parking/Valet After Hours Dining Late Night Menu Weekend Brunch Greek Excellent Food Excellent Service Excellent Decor $15-$30 
+0000394	Long Drive Weekend Brunch Romantic Quiet for Conversation Private Parties Private Rooms Available French (New) American (New) Excellent Food Excellent Service Extraordinary Decor $15-$30 
+0000395	Short Drive Weekend Brunch Quirky Up and Coming American (Regional) Excellent Food Excellent Service Good Decor $15-$30 
+0000396	Cab After Hours Dining Late Night Menu People Keep Coming Back Weekend Brunch Open for Breakfast American (Traditional) Good Food Good Service Good Decor $15-$30 
+0000397	Long Drive Parking/Valet Weekend Brunch Relaxed Senior Scene Private Parties Private Rooms Available American (Traditional) Polish Excellent Food Excellent Service Good Decor below $15 
+0000398	Weekend Brunch After Hours Dining Late Night Menu Good for Younger Kids For the Young and Young at Heart No Reservations Pizza Excellent Food Good Service Fair Decor below $15 
+0000399	Cab Weekend Brunch Parking/Valet Weekend Brunch Authentic Greek Excellent Food Excellent Service Excellent Decor $15-$30 
+0000400	Cab Weekend Brunch No Reservations Private Parties Private Rooms Available Dining Outdoors Hip Place To Be Authentic Mexican Near-perfect Food Extraordinary Service Extraordinary Decor $15-$30 
+0000401	Cab Buffet Dining Thai Excellent Food Excellent Service Excellent Decor $15-$30 
+0000402	Cab Great for People Watching Parking/Valet Power Brokers Hip Place To Be Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000403	Long Drive Italian Extraordinary Food Excellent Service Good Decor $15-$30 
+0000404	Short Drive Carry in Wine and Beer Authentic Vietnamese Excellent Food Good Service Poor Decor below $15 
+0000405	Cab Fabulous Wine Lists Good Out of Town Business Very Busy - Reservations a Must Quiet for Conversation Private Parties Private Rooms Available Business Scene American (New) Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000406	Cab Parking/Valet Romantic Very Busy - Reservations a Must Quiet for Conversation Italian Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000407	Short Drive Weekend Brunch Parking/Valet Carry in Wine and Beer Good for Younger Kids For the Young and Young at Heart Weekend Brunch Hip Place To Be Open for Breakfast Traditional Cajun Creole Southern Soulfood Extraordinary Food Excellent Service Good Decor below $15 
+0000408	Short Drive Parking/Valet Weekend Brunch Relaxed Senior Scene Private Parties Private Rooms Available Dancing Entertainment Traditional German Excellent Food Excellent Service Excellent Decor $15-$30 
+0000409	Cab Parking/Valet After Hours Dining Late Night Menu Weekend Brunch Place for Singles Private Parties Private Rooms Available Up and Coming Hip Place To Be Dancing Entertainment American (New) Good Food Good Service Good Decor $15-$30 
+0000410	Cab Parking/Valet Weekend Brunch Dining Outdoors Seafood Excellent Food Excellent Service Good Decor $15-$30 
+0000411	Long Drive Weekend Brunch Dancing Entertainment Authentic Mexican Good Food Excellent Service Excellent Decor $15-$30 
+0000412	Long Drive Weekend Brunch Parking/Valet An Out Of The Way Find Private Parties Private Rooms Available Walk French (New) Excellent Food Excellent Service Extraordinary Decor $15-$30 
+0000413	Long Drive Parking/Valet Weekend Brunch Private Parties Private Rooms Available Steakhouses Excellent Food Excellent Service Excellent Decor $15-$30 
+0000414	Short Drive Weekend Brunch Creative American (New) Excellent Food Excellent Service Good Decor $15-$30 
+0000415	Cab Cajun Creole Good Food Good Service Good Decor $15-$30 
+0000416	Long Drive Weekend Brunch Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000417	Long Drive Parking/Valet Chinese Excellent Food Excellent Service Good Decor $15-$30 
+0000418	Cab Parking/Valet Good Out of Town Business Romantic Very Busy - Reservations a Must Quiet for Conversation Prix Fixe Menus Private Parties Private Rooms Available Need To Dress Classic Hotel Dining Dancing Entertainment Business Scene Traditional American (New) Extraordinary Food Extraordinary Service Near-perfect Decor $30-$50 
+0000419	Cab Weekend Brunch Parking/Valet Business Scene Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000420	Short Drive Weekend Brunch For the Young and Young at Heart Little Known But Well Liked No Reservations Mexican Extraordinary Food Excellent Service Good Decor $15-$30 
+0000421	Short Drive Weekend Brunch Pub Feel Singles Scene See the Game Parking/Valet Weekend Brunch Place for Singles Private Parties Private Rooms Available Bar-B-Q Good Food Good Service Good Decor $15-$30 
+0000422	Cab Weekend Brunch Parking/Valet Prix Fixe Menus Dining Outdoors Classic Hotel Dining French Bistro Excellent Food Excellent Service Excellent Decor $15-$30 
+0000423	Short Drive Weekend Brunch Pub Feel Singles Scene See the Game Parking/Valet Weekend Brunch Traditional Hamburgers Excellent Food Excellent Service Good Decor below $15 
+0000424	Long Drive Italian Excellent Food Excellent Service Fair Decor $15-$30 
+0000425	Cab Chinese Good Food Good Service Good Decor $15-$30 
+0000426	Long Drive Pre-theater Dining Parking/Valet Game An Out Of The Way Find Fabulous Wine Lists Romantic Very Busy - Reservations a Must Quiet for Conversation Prix Fixe Menus Power Brokers Need To Dress Hip Place To Be Business Scene French Near-perfect Food Near-perfect Service Near-perfect Decor over $50 
+0000427	Short Drive Wheelchair Access Weekend Brunch Parking/Valet Relaxed Senior Scene Delivery Available Takeout Available Traditional Chinese Excellent Food Good Service Fair Decor $15-$30 
+0000428	Short Drive Pre-theater Dining Game Good Out of Town Business Romantic Very Busy - Reservations a Must Quiet for Conversation Private Parties Private Rooms Available Need To Dress Creative French (New) Asian Extraordinary Food Extraordinary Service Excellent Decor $30-$50 
+0000429	Long Drive Game Little Known But Well Liked Creative American (Regional) Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000430	Short Drive Carry in Wine and Beer Weekend Brunch Delivery Available Takeout Available Open for Breakfast American (Traditional) Eclectic Good Food Good Service Fair Decor below $15 
+0000431	Short Drive Parking/Valet Weekend Brunch Romantic Dining Outdoors French Bistro Excellent Food Excellent Service Good Decor $15-$30 
+0000432	Cab Weekend Brunch Parking/Valet Weekend Brunch Private Parties Private Rooms Available Authentic Greek Excellent Food Excellent Service Good Decor $15-$30 
+0000433	Cab Weekend Brunch Quiet for Conversation Up and Coming Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000434	Cab Parking/Valet Great Place to Meet for a Drink Weekend Brunch Quiet for Conversation Creative Mediterranean Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000435	Short Drive Relaxed Senior Scene No Reservations Chinese Excellent Food Good Service Fair Decor below $15 
+0000436	Short Drive Weekend Brunch Traditional Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000437	Long Drive Parking/Valet Romantic Quiet for Conversation Prix Fixe Menus Private Parties Private Rooms Available Creative French Bistro Extraordinary Food Extraordinary Service Excellent Decor $15-$30 
+0000438	Short Drive Weekend Brunch Weekend Brunch Dining Outdoors Health Conscious Menus Fine for Dining Alone Delivery Available Takeout Available Dancing Entertainment Catering for Special Events Open for Breakfast Health Food Vegetarian Good Food Good Service Good Decor below $15 
+0000439	Long Drive Weekend Brunch Private Parties Private Rooms Available Dancing Entertainment Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000440	Long Drive Parking/Valet Quiet for Conversation Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000441	Short Drive Parking/Valet After Hours Dining Late Night Menu Weekend Brunch Dancing Entertainment Cuban Excellent Food Excellent Service Excellent Decor $15-$30 
+0000442	Short Drive Vietnamese Excellent Food Good Service Good Decor below $15 
+0000443	Long Drive Parking/Valet Little Known But Well Liked Chinese Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000444	Long Drive Weekend Brunch No Reservations Traditional Seafood Steakhouses Jewish Extraordinary Food Excellent Service Good Decor $15-$30 
+0000445	Short Drive After Hours Dining Late Night Menu Weekend Brunch Mexican Good Food Good Service Fair Decor below $15 
+0000446	Cab Parking/Valet Good Out of Town Business Romantic Need To Dress Classic Hotel Dining Business Scene Continental Excellent Food Extraordinary Service Extraordinary Decor $30-$50 
+0000447	Cab Parking/Valet Game Fabulous Wine Lists Good Out of Town Business Very Busy - Reservations a Must Prix Fixe Menus Need To Dress Classic Hotel Dining Business Scene Creative American (New) Near-perfect Food Near-perfect Service Near-perfect Decor $30-$50 
+0000448	Long Drive Weekend Brunch Weekend Brunch No Reservations Czech Excellent Food Excellent Service Good Decor below $15 
+0000449	Short Drive Weekend Brunch For the Young and Young at Heart Weekend Brunch Tex-Mex Good Food Good Service Good Decor $15-$30 
+0000450	Cab Parking/Valet Weekend Brunch Private Parties Private Rooms Available Dining Outdoors Business Scene Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000451	Short Drive Parking/Valet Weekend Brunch No Reservations Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000452	Long Drive Weekend Brunch Parking/Valet Good for Younger Kids People Keep Coming Back Weekend Brunch Delivery Available Takeout Available Buffet Dining Italian Good Food Good Service Good Decor below $15 
+0000453	Short Drive Parking/Valet Weekend Brunch No Reservations Private Parties Private Rooms Available Hip Place To Be Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000454	Cab Weekend Brunch Parking/Valet Place for Singles Very Busy - Reservations a Must Private Parties Private Rooms Available Up and Coming Spanish Tapas Good Food Good Service Good Decor $15-$30 
+0000455	Short Drive Carry in Wine and Beer Relaxed Senior Scene Korean Good Food Good Service Good Decor $15-$30 
+0000456	Short Drive Relaxed Senior Scene Middle Eastern Excellent Food Excellent Service Good Decor $15-$30 
+0000457	Short Drive Parking/Valet Weekend Brunch Private Parties Private Rooms Available Dining Outdoors Italian Pizza Excellent Food Excellent Service Excellent Decor $15-$30 
+0000458	Cab Parking/Valet Good Out of Town Business Weekend Brunch Private Parties Private Rooms Available Up and Coming Business Scene Steakhouses Excellent Food Excellent Service Excellent Decor $30-$50 
+0000459	Short Drive Weekend Brunch Little Known But Well Liked Relaxed Senior Scene Buffet Dining Polish Extraordinary Food Excellent Service Excellent Decor below $15 
+0000460	Cab Weekend Brunch Parking/Valet Very Busy - Reservations a Must Private Parties Private Rooms Available Dining Outdoors Classic Hotel Dining Business Scene Greek Excellent Food Excellent Service Extraordinary Decor $15-$30 
+0000461	Cab Parking/Valet Good Out of Town Business Classic Hotel Dining Business Scene Steakhouses Excellent Food Excellent Service Excellent Decor $30-$50 
+0000462	Short Drive After Hours Dining Late Night Menu Buffet Dining Korean Good Food Good Service Fair Decor below $15 
+0000463	Short Drive Parking/Valet Weekend Brunch Quiet for Conversation Private Parties Private Rooms Available Italian Extraordinary Food Extraordinary Service Extraordinary Decor $15-$30 
+0000464	Short Drive Good for Younger Kids Pizza Excellent Food Good Service Good Decor below $15 
+0000465	Cab Parking/Valet Classic Hotel Dining Business Scene Eclectic Extraordinary Food Excellent Service Excellent Decor $30-$50 
+0000466	Short Drive Parking/Valet Weekend Brunch Private Parties Private Rooms Available Dining Outdoors Walk Italian Extraordinary Food Extraordinary Service Extraordinary Decor $15-$30 
+0000467	Long Drive Weekend Brunch Mexican Extraordinary Food Excellent Service Good Decor $15-$30 
+0000468	Short Drive Carry in Wine and Beer Indonesian Excellent Food Good Service Good Decor below $15 
+0000469	Cab Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Very Busy - Reservations a Must Business Scene Steakhouses Extraordinary Food Extraordinary Service Excellent Decor $30-$50 
+0000470	Long Drive Parking/Valet Relaxed Senior Scene No Reservations Italian Good Food Good Service Good Decor $15-$30 
+0000471	Short Drive Parking/Valet Japanese Excellent Food Excellent Service Good Decor $15-$30 
+0000472	Short Drive Parking/Valet Weekend Brunch Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000473	Cab Business Scene Thai Excellent Food Good Service Good Decor below $15 
+0000474	Short Drive Weekend Brunch Carry in Wine and Beer Weekend Brunch Romantic Dining Outdoors French Excellent Food Excellent Service Good Decor $15-$30 
+0000475	Cab Parking/Valet Buffet Dining Authentic Indian Excellent Food Good Service Excellent Decor $15-$30 
+0000476	Short Drive Carry in Wine and Beer Weekend Brunch No Reservations Creative American (Regional) Caribbean American (New) Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000477	Long Drive Parking/Valet An Out Of The Way Find Dancing Entertainment Spanish Tapas Good Food Good Service Good Decor $15-$30 
+0000478	Long Drive Weekend Brunch Parking/Valet Good for Younger Kids For the Young and Young at Heart Weekend Brunch Dining Outdoors Hamburgers Excellent Food Excellent Service Good Decor below $15 
+0000479	Short Drive Weekend Brunch Relaxed Senior Scene Italian Excellent Food Good Service Good Decor $15-$30 
+0000480	Short Drive Weekend Brunch Relaxed Senior Scene Delivery Available Takeout Available Catering for Special Events Polish Excellent Food Excellent Service Fair Decor below $15 
+0000481	Short Drive Parking/Valet Korean Excellent Food Good Service Good Decor $15-$30 
+0000482	Long Drive Good for Younger Kids For the Young and Young at Heart No Reservations Pizza Excellent Food Excellent Service Good Decor below $15 
+0000483	Short Drive Good for Younger Kids For the Young and Young at Heart Weekend Brunch Dining Outdoors Bar-B-Q Excellent Food Good Service Fair Decor $15-$30 
+0000484	Cab Weekend Brunch Italian Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000485	Cab Parking/Valet Prix Fixe Menus Need To Dress Classic Hotel Dining French (New) American (New) Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000486	Cab Parking/Valet Great Place to Meet for a Drink Weekend Brunch Place for Singles Dining Outdoors Southwestern Excellent Food Excellent Service Extraordinary Decor $15-$30 
+0000487	Cab Parking/Valet Weekend Brunch Traditional Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000488	Cab Weekend Brunch Parking/Valet Weekend Brunch Private Parties Private Rooms Available Greek Excellent Food Excellent Service Excellent Decor $15-$30 
+0000489	Short Drive Weekend Brunch Good for Younger Kids For the Young and Young at Heart Weekend Brunch No Reservations Open for Breakfast American (Traditional) Good Food Good Service Good Decor below $15 
+0000490	Short Drive Delivery Available Takeout Available Argentinean Good Food Good Service Good Decor $15-$30 
+0000491	Short Drive Wheelchair Access No Smoking Allowed No Reservations Fine for Dining Alone Asian Excellent Food Excellent Service Good Decor below $15 
+0000492	Short Drive Parking/Valet Weekend Brunch Quiet for Conversation Up and Coming Italian Good Food Good Service Good Decor $15-$30 
+0000493	Short Drive Weekend Brunch After Hours Dining Late Night Menu Good for Younger Kids For the Young and Young at Heart No Reservations Pizza Excellent Food Good Service Good Decor below $15 
+0000494	Long Drive Good for Younger Kids For the Young and Young at Heart Mexican Excellent Food Excellent Service Excellent Decor $15-$30 
+0000495	Cab Parking/Valet Good Out of Town Business Private Parties Private Rooms Available Classic Hotel Dining Business Scene Japanese Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000496	Cab No Reservations Fine for Dining Alone Delivery Available Takeout Available Open for Breakfast American (Traditional) Cajun Creole Coffee Shops Diners Extraordinary Food Excellent Service Good Decor below $15 
+0000497	Long Drive Weekend Brunch After Hours Dining Late Night Menu For the Young and Young at Heart Weekend Brunch Fine for Dining Alone Open for Breakfast American (Traditional) Hamburgers Good Food Good Service Good Decor below $15 
+0000498	Short Drive Weekend Brunch Good for Younger Kids For the Young and Young at Heart No Reservations Italian Pizza Excellent Food Good Service Good Decor $15-$30 
+0000499	Cab Italian Vegetarian Good Food Good Service Good Decor $15-$30 
+0000500	Short Drive Parking/Valet Weekend Brunch Up and Coming Tapas Peruvian Excellent Food Excellent Service Good Decor $15-$30 
+0000501	Cab Parking/Valet Weekend Brunch Romantic Private Parties Private Rooms Available Need To Dress An Historic Spot Walk Dancing Entertainment Continental French Excellent Food Excellent Service Extraordinary Decor $30-$50 
+0000502	Long Drive Parking/Valet Private Parties Private Rooms Available Japanese Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000503	Short Drive Parking/Valet Game Weekend Brunch Romantic Very Busy - Reservations a Must Quiet for Conversation Dining Outdoors French Bistro Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000504	Short Drive Mexican Excellent Food Excellent Service Good Decor below $15 
+0000505	Cab Wheelchair Access Weekend Brunch Relaxed Senior Scene No Reservations Open for Breakfast American (Traditional) Excellent Food Good Service Excellent Decor below $15 
+0000506	Long Drive Parking/Valet Weekend Brunch Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000507	Long Drive Weekend Brunch Parking/Valet Good for Younger Kids For the Young and Young at Heart Private Parties Private Rooms Available Pizza Californian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000508	Short Drive Wheelchair Access Weekend Brunch Parking/Valet Weekend Brunch No Smoking Allowed No Reservations Health Conscious Menus Open for Breakfast Health Food Vegetarian Good Food Good Service Fair Decor below $15 
+0000509	Long Drive Weekend Brunch Parking/Valet Private Parties Private Rooms Available Buffet Dining Chinese Excellent Food Excellent Service Excellent Decor $15-$30 
+0000510	Short Drive Carry in Wine and Beer Weekend Brunch Relaxed Senior Scene Polish Excellent Food Good Service Fair Decor below $15 
+0000511	Short Drive Weekend Brunch Weekend Brunch Relaxed Senior Scene Polish Excellent Food Excellent Service Fair Decor below $15 
+0000512	Short Drive Weekend Brunch Weekend Brunch Place for Singles Private Parties Private Rooms Available Dining Outdoors Walk American (Traditional) Good Food Good Service Good Decor $15-$30 
+0000513	Long Drive Parking/Valet Good for Younger Kids Weekend Brunch Relaxed Senior Scene Italian Good Food Excellent Service Excellent Decor $15-$30 
+0000514	Long Drive Weekend Brunch Romantic Need To Dress American (Traditional) Continental Excellent Food Excellent Service Excellent Decor $15-$30 
+0000515	Long Drive Parking/Valet Creative Italian Good Food Good Service Good Decor $15-$30 
+0000516	Short Drive Weekend Brunch Parking/Valet Weekend Brunch Private Parties Private Rooms Available Dining Outdoors Walk Creative Southwestern Excellent Food Excellent Service Excellent Decor $15-$30 
+0000517	Short Drive Good for Younger Kids For the Young and Young at Heart No Reservations Open for Breakfast American (Traditional) Extraordinary Food Excellent Service Good Decor below $15 
+0000518	Cab After Hours Dining Late Night Menu Weekend Brunch Romantic Dining Outdoors Walk Bar-B-Q Excellent Food Excellent Service Good Decor $15-$30 
+0000519	Short Drive Weekend Brunch After Hours Dining Late Night Menu No Reservations Chinese Excellent Food Good Service Fair Decor below $15 
+0000520	Short Drive Carry in Wine and Beer Middle Eastern Moroccan Excellent Food Good Service Fair Decor below $15 
+0000521	Short Drive Carry in Wine and Beer Weekend Brunch No Reservations Quirky Open for Breakfast Eclectic American (New) Extraordinary Food Good Service Good Decor below $15 
+0000522	Short Drive Weekend Brunch Creative Caribbean French (New) Excellent Food Excellent Service Good Decor $15-$30 
+0000523	Long Drive Weekend Brunch After Hours Dining Late Night Menu Good for Younger Kids For the Young and Young at Heart Weekend Brunch Authentic Mexican Excellent Food Good Service Excellent Decor $15-$30 
+0000524	Cab Parking/Valet Good Out of Town Business Weekend Brunch Very Busy - Reservations a Must Power Brokers Private Parties Private Rooms Available Business Scene Steakhouses Extraordinary Food Excellent Service Excellent Decor $30-$50 
+0000525	Long Drive Parking/Valet Good Out of Town Business Classic Hotel Dining Business Scene Steakhouses Excellent Food Excellent Service Excellent Decor $15-$30 
+0000526	Long Drive Parking/Valet Relaxed Senior Scene Business Scene Steakhouses Good Food Good Service Good Decor $15-$30 
+0000527	Short Drive Weekend Brunch Great for People Watching Weekend Brunch Dining Outdoors Catering for Special Events Open for Breakfast Eclectic American (New) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000528	Short Drive Weekend Brunch Italian Good Food Excellent Service Good Decor $15-$30 
+0000529	Short Drive Weekend Brunch After Hours Dining Late Night Menu Little Known But Well Liked Open for Breakfast Authentic Mexican Extraordinary Food Excellent Service Fair Decor below $15 
+0000530	Short Drive Ethiopian Excellent Food Excellent Service Fair Decor below $15 
+0000531	Long Drive Parking/Valet Weekend Brunch Relaxed Senior Scene Dancing Entertainment Italian Good Food Good Service Good Decor $15-$30 
+0000532	Long Drive After Hours Dining Late Night Menu Weekend Brunch Southern Soulfood Good Food Good Service Good Decor $15-$30 
+0000533	Short Drive Weekend Brunch Little Known But Well Liked Authentic Peruvian Excellent Food Excellent Service Good Decor $15-$30 
+0000534	Long Drive Weekend Brunch Parking/Valet Delivery Available Takeout Available Catering for Special Events Creative Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000535	Short Drive Weekend Brunch Quiet for Conversation Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000536	Long Drive Parking/Valet Weekend Brunch Private Parties Private Rooms Available Dancing Entertainment French Bistro Good Food Good Service Good Decor $15-$30 
+0000537	Long Drive Weekend Brunch Caribbean Excellent Food Good Service Good Decor $15-$30 
+0000538	Cab Japanese Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000539	Cab Weekend Brunch Italian Pizza Excellent Food Excellent Service Excellent Decor $15-$30 
+0000540	Short Drive Carry in Wine and Beer Peruvian Good Food Good Service Good Decor $15-$30 
+0000541	Cab Weekend Brunch Good for Younger Kids For the Young and Young at Heart Delivery Available Takeout Available Traditional American (Traditional) Excellent Food Good Service Fair Decor below $15 
+0000542	Long Drive Weekend Brunch Weekend Brunch Relaxed Senior Scene Up and Coming Business Scene American (Traditional) Eclectic American (New) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000543	Long Drive Weekend Brunch Parking/Valet Good for Younger Kids Weekend Brunch American (Traditional) Bar-B-Q Excellent Food Excellent Service Excellent Decor $15-$30 
+0000544	Cab Parking/Valet Little Known But Well Liked Classic Hotel Dining Mediterranean Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000545	Cab Weekend Brunch Parking/Valet Weekend Brunch Private Parties Private Rooms Available An Historic Spot Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000546	Short Drive Weekend Brunch Parking/Valet Good for Younger Kids Weekend Brunch Private Parties Private Rooms Available Quirky Dancing Entertainment Seafood Bar-B-Q Good Food Excellent Service Excellent Decor $15-$30 
+0000547	Long Drive Parking/Valet Chinese Excellent Food Excellent Service Good Decor $15-$30 
+0000548	Short Drive Weekend Brunch Private Parties Private Rooms Available Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000549	Short Drive Carry in Wine and Beer Cuban Good Food Good Service Good Decor $15-$30 
+0000550	Long Drive Weekend Brunch Seafood Excellent Food Excellent Service Good Decor $15-$30 
+0000551	Cab Parking/Valet Weekend Brunch Romantic Very Busy - Reservations a Must Business Scene Italian Extraordinary Food Excellent Service Excellent Decor $30-$50 
+0000552	Cab Parking/Valet After Hours Dining Late Night Menu Weekend Brunch Greek Excellent Food Excellent Service Excellent Decor $15-$30 
+0000553	Cab Weekend Brunch Parking/Valet Private Parties Private Rooms Available Authentic Seafood Excellent Food Excellent Service Excellent Decor $15-$30 
+0000554	Cab Parking/Valet Good Out of Town Business Need To Dress Classic Hotel Dining Business Scene Steakhouses Excellent Food Extraordinary Service Excellent Decor $30-$50 
+0000555	Short Drive Parking/Valet Weekend Brunch Relaxed Senior Scene American (Traditional) Continental Bar-B-Q Excellent Food Excellent Service Good Decor $15-$30 
+0000556	Cab Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Romantic Prix Fixe Menus Up and Coming Classic Hotel Dining Walk Business Scene Italian Extraordinary Food Excellent Service Extraordinary Decor $30-$50 
+0000557	Short Drive Continental Polish Good Food Good Service Good Decor $15-$30 
+0000558	Long Drive Weekend Brunch Parking/Valet After Hours Dining Late Night Menu Weekend Brunch Little Known But Well Liked Buffet Dining Southern Soulfood Good Food Good Service Good Decor $15-$30 
+0000559	Short Drive Weekend Brunch Carry in Wine and Beer Relaxed Senior Scene Mediterranean Middle Eastern Excellent Food Good Service Fair Decor below $15 
+0000560	Long Drive Pub Feel Singles Scene See the Game Parking/Valet Place for Singles American (Traditional) Good Food Good Service Excellent Decor below $15 
+0000561	Cab Parking/Valet Good Out of Town Business Private Parties Private Rooms Available Classic Hotel Dining Business Scene Buffet Dining Polynesian Good Food Good Service Good Decor $15-$30 
+0000562	Long Drive Weekend Brunch Good for Younger Kids For the Young and Young at Heart No Reservations Traditional Pizza Excellent Food Good Service Good Decor below $15 
+0000563	Long Drive Parking/Valet An Out Of The Way Find Weekend Brunch Romantic Quiet for Conversation Private Parties Private Rooms Available Dining Outdoors Creative American (New) Extraordinary Food Extraordinary Service Excellent Decor $30-$50 
+0000564	Long Drive Parking/Valet An Out Of The Way Find Fabulous Wine Lists Good Out of Town Business No Smoking Allowed Romantic Very Busy - Reservations a Must Quiet for Conversation Private Parties Private Rooms Available Up and Coming Need To Dress Hip Place To Be Health Conscious Menus Walk French (New) Italian Asian Near-perfect Food Near-perfect Service Near-perfect Decor over $50 
+0000565	Long Drive Parking/Valet After Hours Dining Late Night Menu Weekend Brunch Little Known But Well Liked Relaxed Senior Scene Very Busy - Reservations a Must Private Parties Private Rooms Available Delivery Available Takeout Available American (Traditional) Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000566	Long Drive Weekend Brunch Quiet for Conversation French Excellent Food Excellent Service Excellent Decor $15-$30 
+0000567	Long Drive Wheelchair Access Very Busy - Reservations a Must Buffet Dining Vietnamese Excellent Food Good Service Fair Decor $15-$30 
+0000568	Cab Weekend Brunch Weekend Brunch Eclectic American (New) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000569	Long Drive Weekend Brunch No Reservations Catering for Special Events Buffet Dining Open for Breakfast Southern Soulfood Excellent Food Excellent Service Good Decor below $15 
+0000570	Cab Quiet for Conversation Buffet Dining Indian Excellent Food Excellent Service Good Decor $15-$30 
+0000571	Long Drive Parking/Valet Little Known But Well Liked Relaxed Senior Scene Creative Chinese Excellent Food Excellent Service Excellent Decor $15-$30 
+0000572	Long Drive Parking/Valet Dancing Entertainment Russian Good Food Good Service Good Decor $15-$30 
+0000573	Short Drive Weekend Brunch Parking/Valet After Hours Dining Late Night Menu Good for Younger Kids For the Young and Young at Heart No Reservations Dining Outdoors Italian Pizza Good Food Good Service Good Decor below $15 
+0000574	Short Drive Parking/Valet Quiet for Conversation French Bistro Excellent Food Excellent Service Excellent Decor $15-$30 
+0000575	Short Drive Parking/Valet Weekend Brunch Up and Coming Italian Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000576	Cab Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Romantic Very Busy - Reservations a Must Quiet for Conversation Power Brokers Private Parties Private Rooms Available Business Scene Italian Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000577	Cab Classic Hotel Dining Business Scene Continental Good Food Good Service Good Decor $15-$30 
+0000578	Short Drive Parking/Valet People Keep Coming Back Weekend Brunch Private Parties Private Rooms Available Dining Outdoors Italian Good Food Excellent Service Good Decor $15-$30 
+0000579	Short Drive Weekend Brunch Parking/Valet Carry in Wine and Beer No Reservations Chinese Dim Sum Excellent Food Good Service Fair Decor $15-$30 
+0000580	Long Drive Weekend Brunch Seafood Excellent Food Excellent Service Good Decor $15-$30 
+0000581	Cab Parking/Valet Weekend Brunch Traditional American (Traditional) Bar-B-Q Excellent Food Excellent Service Good Decor $15-$30 
+0000582	Short Drive Weekend Brunch Vietnamese Excellent Food Good Service Fair Decor below $15 
+0000583	Short Drive Weekend Brunch Relaxed Senior Scene Open for Breakfast Coffee Shops Diners Polish Excellent Food Excellent Service Fair Decor below $15 
+0000584	Long Drive Weekend Brunch Parking/Valet No Smoking Allowed Private Parties Private Rooms Available American (New) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000585	Short Drive After Hours Dining Late Night Menu Place for Singles Romantic Quiet for Conversation Private Parties Private Rooms Available Creative Eclectic French Bistro Italian Good Food Good Service Good Decor $15-$30 
+0000586	Cab Weekend Brunch Parking/Valet Good Out of Town Business Weekend Brunch Power Brokers Private Parties Private Rooms Available Dining Outdoors Hip Place To Be Business Scene Italian Excellent Food Excellent Service Extraordinary Decor $30-$50 
+0000587	Long Drive Carry in Wine and Beer Weekend Brunch Quiet for Conversation Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000588	Short Drive Wheelchair Access Carry in Wine and Beer Relaxed Senior Scene Buffet Dining Thai Extraordinary Food Excellent Service Good Decor $15-$30 
+0000589	Long Drive Parking/Valet Good for Younger Kids For the Young and Young at Heart Weekend Brunch Steakhouses Excellent Food Excellent Service Excellent Decor $15-$30 
+0000590	Cab Weekend Brunch Parking/Valet Good for Younger Kids For the Young and Young at Heart No Reservations Traditional Eclectic Hamburgers Good Food Excellent Service Good Decor below $15 
+0000591	Cab Weekend Brunch After Hours Dining Late Night Menu Weekend Brunch Authentic Spanish Tapas French Excellent Food Excellent Service Good Decor $15-$30 
+0000592	Long Drive An Out Of The Way Find Romantic Quiet for Conversation Need To Dress Seafood Californian Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000593	Cab Weekend Brunch Business Scene Buffet Dining Chinese Excellent Food Excellent Service Good Decor $15-$30 
+0000594	Cab Middle Eastern Excellent Food Excellent Service Good Decor below $15 
+0000595	Cab Tourist Appeal Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Weekend Brunch Very Busy - Reservations a Must Power Brokers Private Parties Private Rooms Available Hip Place To Be Business Scene Italian Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000596	Short Drive Japanese Extraordinary Food Excellent Service Good Decor $15-$30 
+0000597	Long Drive Weekend Brunch Weekend Brunch Little Known But Well Liked Romantic Quiet for Conversation Private Parties Private Rooms Available French (New) Italian Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000598	Short Drive Carry in Wine and Beer Weekend Brunch Little Known But Well Liked No Reservations Bar-B-Q Extraordinary Food Excellent Service Fair Decor below $15 
+0000599	Long Drive Parking/Valet Classic Hotel Dining Seafood Excellent Food Good Service Good Decor below $15 
+0000600	Cab Parking/Valet Little Known But Well Liked Italian Good Food Good Service Good Decor $15-$30 
+0000601	Cab Parking/Valet Great Place to Meet for a Drink Weekend Brunch Place for Singles Private Parties Private Rooms Available American (New) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000602	Cab Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Weekend Brunch Very Busy - Reservations a Must Up and Coming Business Scene American (New) Extraordinary Food Excellent Service Excellent Decor $30-$50 
+0000603	Cab Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Weekend Brunch Very Busy - Reservations a Must Power Brokers Private Parties Private Rooms Available Dining Outdoors Up and Coming Hip Place To Be Business Scene Italian Seafood Extraordinary Food Excellent Service Extraordinary Decor $30-$50 
+0000604	Cab Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000605	Long Drive Parking/Valet Italian Pizza Excellent Food Excellent Service Good Decor $15-$30 
+0000606	Long Drive Parking/Valet Good Out of Town Business Weekend Brunch Romantic Quiet for Conversation Private Parties Private Rooms Available Business Scene American (Traditional) Good Food Good Service Good Decor $15-$30 
+0000607	Short Drive After Hours Dining Late Night Menu Seafood Mexican Excellent Food Good Service Good Decor $15-$30 
+0000608	Short Drive Weekend Brunch Private Parties Private Rooms Available Dancing Entertainment Traditional Traditional Authentic German Excellent Food Excellent Service Excellent Decor $15-$30 
+0000609	Long Drive Weekend Brunch An Out Of The Way Find Weekend Brunch Little Known But Well Liked German Extraordinary Food Excellent Service Good Decor $15-$30 
+0000610	Long Drive Parking/Valet Game An Out Of The Way Find Creative French Bistro Extraordinary Food Extraordinary Service Extraordinary Decor $15-$30 
+0000611	Short Drive Great for People Watching Parking/Valet Weekend Brunch Romantic Up and Coming Hip Place To Be American (New) Extraordinary Food Excellent Service Extraordinary Decor $30-$50 
+0000612	Short Drive Great for People Watching Parking/Valet Weekend Brunch No Reservations Private Parties Private Rooms Available Dining Outdoors Hip Place To Be Italian Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000613	Short Drive Parking/Valet Weekend Brunch Dining Outdoors Up and Coming Creative Mexican Excellent Food Excellent Service Excellent Decor $15-$30 
+0000614	Cab Parking/Valet Private Parties Private Rooms Available Buffet Dining Chinese Excellent Food Excellent Service Excellent Decor $15-$30 
+0000615	Cab Parking/Valet Private Parties Private Rooms Available Italian Extraordinary Food Excellent Service Extraordinary Decor $15-$30 
+0000616	Cab Weekend Brunch Parking/Valet Fine for Dining Alone Delivery Available Takeout Available Open for Breakfast Bakeries Eclectic Extraordinary Food Excellent Service Excellent Decor below $15 
+0000617	Parking/Valet Romantic Quiet for Conversation French Bistro Excellent Food Excellent Service Excellent Decor $15-$30 
+0000618	Short Drive Parking/Valet Weekend Brunch Up and Coming Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000619	Short Drive Parking/Valet Dancing Entertainment Middle Eastern Excellent Food Excellent Service Good Decor $15-$30 
+0000620	Cab Pre-theater Dining Parking/Valet Great Place to Meet for a Drink Weekend Brunch Romantic Very Busy - Reservations a Must Quiet for Conversation Prix Fixe Menus Power Brokers Private Parties Private Rooms Available Need To Dress Hip Place To Be Dancing Entertainment Business Scene American (New) Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000621	Short Drive Great for People Watching Parking/Valet Weekend Brunch Dining Outdoors Hip Place To Be French Bistro Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000622	Long Drive Parking/Valet Indian Excellent Food Good Service Good Decor below $15 
+0000623	Short Drive Thai Excellent Food Good Service Good Decor $15-$30 
+0000624	Long Drive After Hours Dining Late Night Menu Weekend Brunch Margaritas Creative Mexican Excellent Food Excellent Service Good Decor below $15 
+0000625	Long Drive Weekend Brunch Up and Coming Spanish Tapas Good Food Good Service Good Decor $15-$30 
+0000626	Long Drive Parking/Valet Good Out of Town Business Private Parties Private Rooms Available Business Scene Steakhouses Extraordinary Food Excellent Service Excellent Decor $30-$50 
+0000627	Short Drive Parking/Valet Game Fabulous Wine Lists Good Out of Town Business Romantic Very Busy - Reservations a Must Quiet for Conversation Prix Fixe Menus Need To Dress French (New) Japanese Asian Near-perfect Food Extraordinary Service Extraordinary Decor $30-$50 
+0000628	Cab Up and Coming Italian Good Food Good Service Good Decor $15-$30 
+0000629	Cab After Hours Dining Late Night Menu Place for Singles Italian Good Food Good Service Good Decor $15-$30 
+0000630	Short Drive Weekend Brunch Weekend Brunch No Reservations Mexican Excellent Food Excellent Service Excellent Decor below $15 
+0000631	Short Drive Weekend Brunch Authentic Spanish Tapas Excellent Food Excellent Service Good Decor $15-$30 
+0000632	Short Drive Weekend Brunch Pub Feel Singles Scene See the Game Great for People Watching Parking/Valet Weekend Brunch Place for Singles Dining Outdoors American (New) Good Food Good Service Good Decor below $15 
+0000633	Short Drive Weekend Brunch Carry in Wine and Beer Indian Excellent Food Excellent Service Good Decor below $15 
+0000634	Parking/Valet Private Parties Private Rooms Available Italian Pizza Good Food Good Service Good Decor $15-$30 
+0000635	Long Drive Weekend Brunch No Reservations Private Parties Private Rooms Available Dining Outdoors Dancing Entertainment Cajun Creole Excellent Food Excellent Service Excellent Decor $15-$30 
+0000636	Cab Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Weekend Brunch Romantic Power Brokers Hip Place To Be Business Scene Creative Italian Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000637	Short Drive Parking/Valet Good for Younger Kids For the Young and Young at Heart Weekend Brunch Relaxed Senior Scene Italian Pizza Good Food Good Service Good Decor $15-$30 
+0000638	Short Drive Buffet Dining Thai Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000639	Cab After Hours Dining Late Night Menu Good Out of Town Business Weekend Brunch Private Parties Private Rooms Available Up and Coming Business Scene Italian Steakhouses Good Food Good Service Good Decor $15-$30 
+0000640	Cab Pre-theater Dining Parking/Valet Game Fabulous Wine Lists Good Out of Town Business Romantic Very Busy - Reservations a Must Quiet for Conversation Prix Fixe Menus Power Brokers Private Parties Private Rooms Available Need To Dress Hip Place To Be Business Scene French (New) Near-perfect Food Near-perfect Service Near-perfect Decor over $50 
+0000641	Short Drive Weekend Brunch Italian Good Food Good Service Good Decor $15-$30 
+0000642	Short Drive Weekend Brunch Parking/Valet Good for Younger Kids For the Young and Young at Heart Relaxed Senior Scene Private Parties Private Rooms Available Italian Pizza Excellent Food Excellent Service Good Decor $15-$30 
+0000643	Long Drive Weekend Brunch Parking/Valet Good for Younger Kids Weekend Brunch No Reservations Private Parties Private Rooms Available Seafood Extraordinary Food Excellent Service Good Decor $15-$30 
+0000644	Cab Pub Feel Singles Scene See the Game Great for People Watching Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Weekend Brunch Place for Singles Romantic Power Brokers Private Parties Private Rooms Available Up and Coming Hip Place To Be Walk Business Scene French Bistro Excellent Food Excellent Service Extraordinary Decor $30-$50 
+0000645	Long Drive An Out Of The Way Find No Smoking Allowed Little Known But Well Liked Relaxed Senior Scene No Reservations Quiet for Conversation Business Scene Japanese Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000646	Short Drive Parking/Valet Weekend Brunch Romantic Quiet for Conversation Traditional French Bistro Excellent Food Excellent Service Good Decor $15-$30 
+0000647	Cab Weekend Brunch Parking/Valet Relaxed Senior Scene Private Parties Private Rooms Available Business Scene Buffet Dining Chinese Dim Sum Good Food Good Service Good Decor $15-$30 
+0000648	Short Drive Carry in Wine and Beer Chinese Excellent Food Excellent Service Fair Decor below $15 
+0000649	Long Drive Weekend Brunch Romantic Quiet for Conversation Private Parties Private Rooms Available Up and Coming Business Scene American (New) Excellent Food Excellent Service Excellent Decor $30-$50 
+0000650	Cab Weekend Brunch Parking/Valet Great Place to Meet for a Drink Weekend Brunch Dining Outdoors Business Scene Traditional American (Regional) Excellent Food Excellent Service Extraordinary Decor $15-$30 
+0000651	Short Drive Eastern European Good Food Good Service Good Decor $15-$30 
+0000652	Short Drive Weekend Brunch Parking/Valet No Liquor Served Game Good for Younger Kids Weekend Brunch Relaxed Senior Scene No Reservations An Historic Spot Delivery Available Takeout Available Catering for Special Events Open for Breakfast American (Traditional) Excellent Food Excellent Service Good Decor below $15 
+0000653	Cab Parking/Valet Great Place to Meet for a Drink Good Out of Town Business Weekend Brunch Private Parties Private Rooms Available Up and Coming Walk Dancing Entertainment Business Scene Seafood Steakhouses Excellent Food Excellent Service Excellent Decor $30-$50 
+0000654	Cab Parking/Valet Relaxed Senior Scene Private Parties Private Rooms Available Middle Eastern Persian Excellent Food Excellent Service Good Decor $15-$30 
+0000655	Short Drive Weekend Brunch Romantic French Bistro Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000656	Cab Weekend Brunch Weekend Brunch Place for Singles Mexican Good Food Good Service Good Decor $15-$30 
+0000657	Cab Weekend Brunch American (Traditional) Excellent Food Excellent Service Excellent Decor $15-$30 
+0000658	Long Drive Parking/Valet Weekend Brunch Italian Good Food Good Service Good Decor $15-$30 
+0000659	Long Drive Parking/Valet An Out Of The Way Find Good Out of Town Business Little Known But Well Liked Romantic Quiet for Conversation Private Parties Private Rooms Available Need To Dress Classic Hotel Dining Business Scene Continental French Extraordinary Food Extraordinary Service Extraordinary Decor $30-$50 
+0000660	Cab Weekend Brunch Creative American (New) Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000661	Long Drive Parking/Valet An Out Of The Way Find Weekend Brunch Romantic Prix Fixe Menus Private Parties Private Rooms Available Dining Outdoors Delivery Available Takeout Available French Bistro Extraordinary Food Extraordinary Service Excellent Decor $15-$30 
+0000662	Short Drive Parking/Valet Chinese Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000663	Long Drive Weekend Brunch Relaxed Senior Scene No Reservations Italian Extraordinary Food Extraordinary Service Good Decor $15-$30 
+0000664	Short Drive Carry in Wine and Beer Buffet Dining Indian Good Food Good Service Fair Decor below $15 
+0000665	Long Drive Parking/Valet Private Parties Private Rooms Available Classic Hotel Dining Seafood Excellent Food Excellent Service Extraordinary Decor $15-$30 
+0000666	Short Drive Carry in Wine and Beer Weekend Brunch Relaxed Senior Scene Lithuanian Excellent Food Good Service Fair Decor below $15 
+0000667	Cab Pre-theater Dining Parking/Valet Quiet for Conversation Private Parties Private Rooms Available Classic Hotel Dining Business Scene Traditional Italian Excellent Food Excellent Service Excellent Decor $15-$30 
+0000668	Long Drive Carry in Wine and Beer No Reservations Chinese Excellent Food Good Service Good Decor $15-$30 
+0000669	Short Drive Parking/Valet Game Good Out of Town Business Weekend Brunch Romantic Private Parties Private Rooms Available Need To Dress Walk Business Scene French Excellent Food Excellent Service Extraordinary Decor $30-$50 
+0000670	Short Drive Creative Ethiopian Excellent Food Good Service Good Decor below $15 
+0000671	Short Drive Weekend Brunch Pub Feel Singles Scene See the Game Parking/Valet Good for Younger Kids For the Young and Young at Heart Weekend Brunch Dining Outdoors Delivery Available Takeout Available Catering for Special Events Cajun Creole Southern Soulfood Good Food Good Service Good Decor below $15 
+0000672	Short Drive Eclectic Extraordinary Food Excellent Service Excellent Decor $15-$30 
+0000673	Short Drive Parking/Valet Relaxed Senior Scene Private Parties Private Rooms Available Italian Excellent Food Excellent Service Good Decor $15-$30 
+0000674	Short Drive Weekend Brunch Seafood Good Food Good Service Good Decor $15-$30 
+0000675	Cab Parking/Valet Quiet for Conversation Business Scene Italian Good Food Good Service Good Decor $15-$30
+

@@ -1,0 +1,37 @@
+body{
+	height: 100%;
+	background: url("https://n6-img-fp.akamaized.net/free-photo/smooth-dark-blue-with-black-vignette-studio-well-use-as-background-business-report-digital-website-template_1258-748.jpg?size=338&ext=jpg") no-repeat center center fixed;
+	background-size: cover;
+	overflow: auto;  /*Prevent unwanted whitespaces at top and bottom of page*/ 
+}
+
+h2 { color: #111; font-family: 'Open Sans', sans-serif; font-size: 30px; font-weight: 300; text-align: center; }
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 500px) {
+    .left-margins {
+		margin-left: 0px;
+	}
+	.block-when-small {
+		display: block;
+	}
+}
+
+/* Large screens ----------- */
+@media only screen 
+and (max-width : 950px) {
+	.block-when-small {
+		display: block;
+	}
+}
+
+/* Large screens ----------- */
+@media only screen 
+and (min-width : 950px) {
+	.left-margins {
+		margin-left: 20px;
+	}
+
+}

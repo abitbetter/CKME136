@@ -1,0 +1,26 @@
+#user session counts for the various data splits
+#all of these split encompass the entire population of the user session data(ie they should sum to the same number)
+Counter({
+'summer': 18715, 
+'winter': 25584, 
+
+'breakfast': 7671,
+'lunch': 16438, 
+'dinner': 20190, 
+
+'low_price': 16130, 
+'mid_price': 23744, 
+'high_price': 4425
+
+'low_quality': 7962,
+'mid_quality': 22382, 
+'high_quality': 13955, 
+
+'low_decor': 21361, 
+'mid_decor': 15877, 
+'high_decor': 7061,
+
+'low_service': 12726,
+'mid_service': 25395, 
+'high_service': 6178, 
+ })
