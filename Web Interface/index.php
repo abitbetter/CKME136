@@ -19,7 +19,6 @@
 
 		<link type="text/css" rel="stylesheet" href="styles/main.css?<?php echo time(); ?>" />	
 		<link href='https://fonts.googleapis.com/css?family=Nunito:400,300' rel='stylesheet' type='text/css'>
-        <!-- <link rel="stylesheet" href="main.css"> -->
 	</head>
 	<body>
 		<form>
@@ -31,12 +30,6 @@
 									<h2>Restaurant Recommender System</h2>
 								</div>
 								<div class="panel-body">
-									<!-- Time of Day: 
-									<select id='meal' name='meal'>
-										<option value='1'>Breakfast</option>
-										<option value='2'>Lunch</option>
-										<option value='3'>Dinner</option>
-									</select><br> -->
 									<fieldset>
 								    <label class='block-when-small' for="price">Price Range:</label>
 								    <select id='price' name='price'>
@@ -98,7 +91,6 @@
 						
 					</div>
 				</div>
-				<!-- provides cushion between content and footer, so footer does not overlap -->
 				<div class="body-push"></div>
 			</div>
 
@@ -109,14 +101,10 @@
 
 				//this determines what button was pressed
 				$("#submit").click(function(){
-					// $('#button_storage').val($(this).val());
 					$('#button_storage').val('submit');
-					// $('#test').text('submit button pressed');
 				});
 				$("#similar").click(function(){
-					// $('#button_storage').val($(this).val());
 					$('#button_storage').val('similar');
-					// $('#test').text('similar button pressed');
 				});
 
 				$('form').on('submit', function(event){
@@ -131,21 +119,18 @@
 					$('#loading-image').show();
 
 					$.ajax({
-						datatype : "JSON", //automatically converting response to string??? (not sure why)
+						datatype : "JSON",
 						data: {
-							// 'meal' : $('#meal').val(),
 							'price' : $('#price').val(),
 							'decor' : $('#decor').val(),
 							'quality' : $('#quality').val(),
 							'service' : $('#service').val(),
-							// 'season' : $('#season').val(),
 							'datetime' : $('#datetime').val(),
 							'action' : $('#button_storage').val(),
 							'prev_recommendation' : $('#prev_recommendation').val()
 						},
-						type : 'POST', //POST does not save/use cookies
+						type : 'POST',
 						url : '../cgi-bin/recommender/recommender.py',
-					// }).done(handleResponse(response));
 					}).done(function(response) {
 						var json = JSON.parse(response);
 						$('#prev_recommendation').val(json.previous_data.rest_id)
@@ -155,7 +140,6 @@
 						rating['rating2'] = json.rating2;
 						rating['rating3'] = json.rating3;
 
-						//check the status of the response and the recieved message to see if there was an error (perhap the query was not satisfied?)
 						if(json.success == false) {
 							var dt = new Date($.now());
 							$('#rest1').text(json.message + ' ' + dt);
@@ -174,7 +158,7 @@
 									i++;
 								});
 							} 
-							else { //include the evaluation the tf-idf in this output
+							else {
 								$.each(json.data, function(key, value){
 									console.log(key, value)
 									var rating_value = rating['rating' + i];
@@ -189,8 +173,6 @@
 								$('#tweak').text("The following criteria in your query were modified: " + json.tweak_message);
 								$('#tweak').removeClass("hide").addClass("show")
 							}
-							// $('#test').text('rating' + 1)
-							// $('#test').text(rating[rating1]())
 						}
 						
 						$('#loading-image').hide()
