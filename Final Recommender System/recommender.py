@@ -48,7 +48,6 @@ def get_season(dt):
 
 def init_result(result):
 	#the final_result df that will be return to the user
-	
 	result['success'] = True #use a flag to check for any error thoughout the script
 	result['message'] = 'Send message about script success/failure' #attach a message to the error
 	#if we adjusted the user input, record in tweak / tweak_message keys
@@ -67,19 +66,6 @@ def init_result(result):
 
 	return result
 
-
-#EXTRACT THE SUBSET OF DATA BASED ON USER SPECIFICATIONS
-#this should be stored in an array or simply use the incoming json
-# cluster_num = 3
-#season(1 - summer, 0 - winter)
-#time(1 - breakfast, 2 - lunch, 3 - dinner)
-#price(1 - low, 2 - mid, 3 - high)
-#decor(1 - low, 2 - mid, 3 - high)
-#quality(1 - low, 2 - mid, 3 - high)
-#service(1 - low, 2 - mid, 3 - high)
-
-# !!!  speeding up this loop with drastically improve script speed  !!! 
-#save the result in a df based on the search criteria(season, meal, price, decor, quality, service)
 def find_user_subset(df, user_ratings, season, meal, print, decor, quality, service):
 	for index, row in user_ratings.iterrows():
 		#extract the rows from the user session data that meets our criteria
@@ -88,9 +74,7 @@ def find_user_subset(df, user_ratings, season, meal, print, decor, quality, serv
 	return df
 	
 
-#if no results are found from the subset search, decrement the highest rated attributes one by one until a subset is found
-#an alternative to this would be to drop one column at a time until results are found
-#SHOULD INCLUDE A TIME LIMIT OR LIMIT NUMBER OF ITERATIONS TO PREVENT INF LOOP
+#if no results are found from the subset search, decrement the highest rated features one by one until a usable subset is found
 def modify_user_input():
 	global price, decor, quality, service
 	if 3 in (price, decor, quality, service):
@@ -111,14 +95,8 @@ def modify_user_input():
 			result['tweak'] = True
 			result['tweak_message'] = result['tweak_message'] + ' Quality '
 		
-
-
-
-
-#CLUSTERING
 def clustering(user_session_subset, chicago_clustering, chicago_clustering_labels):
 	#THIS WILL EXTRACT THE CHICAGO_ZERO_AND_ONE RESTAURANTS THAT MATCH WITH THE ONES FOUND FROM THE INITIAL SUBSET(required for clustering)
-	#get count of user session subset
 	user_session_subset_count = pd.crosstab(index=user_session_subset['Restaurant_ID'], columns="count")
 
 	mask = np.zeros(len(chicago_clustering), dtype=bool)
@@ -149,15 +127,12 @@ def clustering(user_session_subset, chicago_clustering, chicago_clustering_label
 
 	return clusters_with_counts
 
-
-
-#SELECT THE 'MOST POPULAR' RESTAURANT FROM EACH OF THE 3(or whatever) CLUSTERS
+#SELECT THE 'MOST POPULAR' RESTAURANT FROM EACH OF THE 3 CLUSTERS
 def get_most_popular_rest(clusters_with_counts, chicago, chicago_with_features, cluster_num):
 	columns = ["id", "name", "features"]
 	final_df = pd.DataFrame(columns=columns)
 
 	for i in range(cluster_num):
-		# key = "cluster{0}".format(i)
 		max_cluster_value = clusters_with_counts.loc[clusters_with_counts['Cluster'] == str(i)]['count'].max(axis=0)
 		max_cluster_rest_id = clusters_with_counts.loc[clusters_with_counts['count'] == max_cluster_value]
 
@@ -176,31 +151,8 @@ def get_most_popular_rest(clusters_with_counts, chicago, chicago_with_features, 
 
 	return final_df
 
-#get a friendly item name from the feature field, given an item ID
-# def item(id):
-#     return chicago_text_features.loc[chicago_text_features['ID'] == id]['features'].tolist()[0].split(' - ')[0]
 
-# #reads the results out of the dictionary
-# def recommend(item_id, num):
-#     print("Recommending " + str(num) + " products similar to " + item(item_id) + " ... " + str(item_id))
-#     print("-------")
-#     recs = tf_idf_scores[item_id][:num]
-#     for rec in recs:
-#         print("Recommended: " + item(rec[1]) + " (score:" + str(rec[0]) + ")")
-#         print(rec)
-
-
-#START OF 'MAIN'
-#include an option for 'query' and an option for 'similar' which uses tf-idf to find a similar restaurant to the previous one
 cluster_num = 3
-# season = 1
-# meal = 1
-# price = 3
-# decor = 1
-# quality = 1
-# service = 3
-# action = 'submit'
-# prev_recommendation = 110
 
 #HANDLING POST REQUEST DATA
 form = cgi.FieldStorage()
@@ -254,10 +206,7 @@ if action == 'submit':
 	first_choice_rest_id = int(final_df.iloc[0, 0])
 	result['previous_data']['rest_id'] = first_choice_rest_id
 
-	# result['test'] = str(chicago_text_features.iloc[first_choice_rest_id])
 	result['test'] = int(prev_recommendation)
-
-	#TF-IDF SCORE METRICS
 
 
 elif action == 'similar':
@@ -308,7 +257,3 @@ elif action == 'similar':
 
 #SEND RESULT BACK TO HTML
 print(json.dumps(result))
-
-
-#TO DO:
-	#include tf-idf score in the submit query results???
