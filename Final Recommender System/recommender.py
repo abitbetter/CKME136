@@ -131,8 +131,8 @@ def clustering(user_session_subset, chicago_clustering, chicago_clustering_label
 	mask[user_session_subset_count['count'].index.values.astype(int)] = True
 	chicago_clustering_labels = chicago_clustering_labels[mask]
 	chicago_clustering = chicago_clustering[mask]
-
-	#method - Huang, number of clusters - 4, verbose=1 mean textual output (0 is no output), n_init - number of time algorithm run with different centroid seed, with the best output selected from those independent runs
+m
+	#method - Huang, number of clusters - 4, verbose=1 mean textual output (0 is no output), n_init - number of times the algorith runs with different centroid seed, with the best output selected from those independent runs
 	#highest n_init is slower but provide more consistent results
 	kmodes_huang = KModes(n_clusters=3, init='Huang', verbose=0, n_init=20)
 	kmodes_huang.fit(chicago_clustering)
