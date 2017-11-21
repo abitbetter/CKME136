@@ -36,6 +36,7 @@ def get_meal(dt):
 		meal = 3
 	return meal
 
+#determine the season based on html_datetime
 def get_season(dt):
 	#summer
 	if dt.month > ourDate(1,4,1999).month and dt.month < ourDate(1,11,1999).month:
@@ -45,9 +46,8 @@ def get_season(dt):
 		season = 0
 	return season
 
-
-def init_result(result):
-	#the final_result df that will be return to the user
+#initialize the final result dictionary
+def init_result(result):	
 	result['success'] = True #use a flag to check for any error thoughout the script
 	result['message'] = 'Send message about script success/failure' #attach a message to the error
 	#if we adjusted the user input, record in tweak / tweak_message keys
@@ -66,6 +66,7 @@ def init_result(result):
 
 	return result
 
+#save the result in a df based on the search criteria(season, meal, price, decor, quality, service)
 def find_user_subset(df, user_ratings, season, meal, print, decor, quality, service):
 	for index, row in user_ratings.iterrows():
 		#extract the rows from the user session data that meets our criteria
@@ -74,50 +75,76 @@ def find_user_subset(df, user_ratings, season, meal, print, decor, quality, serv
 	return df
 	
 
-#if no results are found from the subset search, decrement the highest rated features one by one until a usable subset is found
+#if no results are found from the subset search, decrement the highest rated attributes one by one until a subset is found
 def modify_user_input():
 	global price, decor, quality, service
+	found = False
 	if 3 in (price, decor, quality, service):
 		if price == 3:
 			price -= 1
 			result['tweak'] = True
 			result['tweak_message'] = result['tweak_message'] + ' Price '
+			found = True
 		elif decor == 3:
 			decor -= 1
 			result['tweak'] = True
 			result['tweak_message'] = result['tweak_message'] + ' Decor '
+			found = True
 		elif service == 3:
 			service -= 1
 			result['tweak'] = True
 			result['tweak_message'] = result['tweak_message'] + ' Service '
+			found = True
 		elif quality == 3:
 			quality -= 1
 			result['tweak'] = True
 			result['tweak_message'] = result['tweak_message'] + ' Quality '
-		
-def clustering(user_session_subset, chicago_clustering, chicago_clustering_labels):
-	#THIS WILL EXTRACT THE CHICAGO_ZERO_AND_ONE RESTAURANTS THAT MATCH WITH THE ONES FOUND FROM THE INITIAL SUBSET(required for clustering)
-	user_session_subset_count = pd.crosstab(index=user_session_subset['Restaurant_ID'], columns="count")
+			found = True
+	else:
+		if price == 2:
+			price -= 1
+			result['tweak'] = True
+			result['tweak_message'] = result['tweak_message'] + ' Price '
+			found = True
+		elif decor == 2:
+			decor -= 1
+			result['tweak'] = True
+			result['tweak_message'] = result['tweak_message'] + ' Decor '
+			found = True
+		elif service == 2:
+			service -= 1
+			result['tweak'] = True
+			result['tweak_message'] = result['tweak_message'] + ' Service '
+			found = True
+		elif quality == 2:
+			quality -= 1
+			result['tweak'] = True
+			result['tweak_message'] = result['tweak_message'] + ' Quality '
+			found = True
 
+		
+#clustering
+def clustering(user_session_subset, chicago_clustering, chicago_clustering_labels):
+	#this will extract the chicago_zero_and_one restaurants that match with the ones found from the initial user session subset(this format is required for clustering)
+	user_session_subset_count = pd.crosstab(index=user_session_subset['Restaurant_ID'], columns="count")
 	mask = np.zeros(len(chicago_clustering), dtype=bool)
 	mask[user_session_subset_count['count'].index.values.astype(int)] = True
-
 	chicago_clustering_labels = chicago_clustering_labels[mask]
 	chicago_clustering = chicago_clustering[mask]
 
-	#method - Huang, number of clusters - 4, verbose=1 mean textual output (0 is no output)
+	#method - Huang, number of clusters - 4, verbose=1 mean textual output (0 is no output), n_init - number of time algorithm run with different centroid seed, with the best output selected from those independent runs
+	#highest n_init is slower but provide more consistent results
 	kmodes_huang = KModes(n_clusters=3, init='Huang', verbose=0, n_init=20)
 	kmodes_huang.fit(chicago_clustering)
 
-	#this joins the restaurant name
+	#join the results to the restaurant name
 	cluster_results = np.column_stack((chicago_clustering_labels,kmodes_huang.labels_))
 
 	#convert numpy matrix to pandas dataframe
 	cluster_result_df = pd.DataFrame(cluster_results)
 	cluster_result_df.columns = ['Restaurant', 'Cluster']
 
-
-	#JOIN THE CLUSTERING RESULTS WITH user_session_subset_count TO GET OUT FINAL RESULTS
+	#join the clustering results with user_session_subset_count to get our final results
 	#remove existing indecies so the new ones line up and df's can be joined
 	cluster_result_df.reset_index(drop=True, inplace=True)
 	user_session_subset_count.reset_index(drop=True, inplace=True)
@@ -127,12 +154,13 @@ def clustering(user_session_subset, chicago_clustering, chicago_clustering_label
 
 	return clusters_with_counts
 
-#SELECT THE 'MOST POPULAR' RESTAURANT FROM EACH OF THE 3 CLUSTERS
+#select the 'most popular' restaurant from each of the 3 clusters
 def get_most_popular_rest(clusters_with_counts, chicago, chicago_with_features, cluster_num):
 	columns = ["id", "name", "features"]
 	final_df = pd.DataFrame(columns=columns)
 
 	for i in range(cluster_num):
+		# key = "cluster{0}".format(i)
 		max_cluster_value = clusters_with_counts.loc[clusters_with_counts['Cluster'] == str(i)]['count'].max(axis=0)
 		max_cluster_rest_id = clusters_with_counts.loc[clusters_with_counts['count'] == max_cluster_value]
 
@@ -154,7 +182,7 @@ def get_most_popular_rest(clusters_with_counts, chicago, chicago_with_features, 
 
 cluster_num = 3
 
-#HANDLING POST REQUEST DATA
+#handling html POST data
 form = cgi.FieldStorage()
 price = int(form.getvalue("price"))
 decor = int(form.getvalue("decor"))
@@ -173,7 +201,7 @@ result = {}
 result = init_result(result)
 result['action'] = action
 
-#IMPORT DATA
+#import data
 user_ratings = pd.read_csv("session_new_dataframe.txt", sep='\t')
 chicago = pd.read_csv("chicago.txt", sep='\t', header=None)
 chicago.columns = ["ID", "name", "features"]
@@ -182,22 +210,24 @@ chicago_text_features.columns = ["ID", "features"]
 chicago_clustering = np.genfromtxt('chicago_dataframe_one_and_zero.txt', dtype=int, delimiter='\t', skip_header=1)[:, 2:]
 chicago_clustering_labels = np.genfromtxt('chicago_dataframe_one_and_zero.txt', dtype=str, delimiter='\t', usecols=(0, ), skip_header=1)
 
-
+#if use selected 'submit query' this will execute
 if action == 'submit':
-	#result dataframe from initial user session subset
+	#find user session subset based on user input
 	columns = ['date', 'Restaurant_ID', 'season', 'meal', 'price', 'decor', 'quality', 'service']
 	user_session_subset = pd.DataFrame(columns=columns)
 	user_session_subset = find_user_subset(user_session_subset, user_ratings, season, meal, price, decor, quality, service)
-
-	while(len(user_session_subset) < (cluster_num + 1)):
+	
+	#check that number of restaurants founds is larger than the number of clusters, if not tweak the search query features
+	while(len(pd.crosstab(index=user_session_subset['Restaurant_ID'], columns="count")) < (cluster_num + 1)):
 		modify_user_input()
 		user_session_subset.drop(user_session_subset.index, inplace=True)
 		user_session_subset = find_user_subset(user_session_subset, user_ratings, season, meal, price, decor, quality, service)
-
+	
+	#cluster the resulting user session subset
 	clusters_with_counts = clustering(user_session_subset, chicago_clustering, chicago_clustering_labels)
-
+	
+	#determine most popular restaurants in each of the 3 clusters
 	final_df = get_most_popular_rest(clusters_with_counts, chicago, chicago_text_features, cluster_num)
-	#order the final_df by the count('popularity') to order the recommendations from highest to lowest
 	final_df = final_df.sort_values("count", ascending=False)
 	mydict = dict(zip(final_df.name, final_df.features))
 	result['data'] = mydict
@@ -208,10 +238,8 @@ if action == 'submit':
 
 	result['test'] = int(prev_recommendation)
 
-
+#if use selected 'find similar restaurants' this will execute
 elif action == 'similar':
-	result['test'] = "the similar process was initiated"
-
 	#compute the results using tdidf and cosine similarity
 	tf = TfidfVectorizer(analyzer='word', ngram_range=(1,3), min_df=0, stop_words='english')
 	tfidf_matrix = tf.fit_transform(chicago_text_features['features'])
@@ -226,6 +254,7 @@ elif action == 'similar':
 	    # Each dictionary entry is like: [(1,2), (3,4)], with each tuple being (score, item_id)
 	    tf_idf_scores[row['ID']] = similar_items[1:]
 
+	#extract the top 3(number of clusters/recommendations) tf-idf restaurant info for similar restaurants to previous user choice
 	recs = tf_idf_scores[int(prev_recommendation)][:cluster_num]
 
 	#format tf-idf reults and store in final_df
@@ -254,6 +283,5 @@ elif action == 'similar':
 	result['data'] = data
 
 	
-
 #SEND RESULT BACK TO HTML
 print(json.dumps(result))
